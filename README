@@ -3,6 +3,6 @@ This repository contains a machine learning project that predicts the best lap t
 
 Project Overview
 Objective: Predict the best lap time of a Formula E track.
-Algorithm: Random Forest
+Algorithm: Random Forest Regressor
 Dataset: Season 9 GEN 3 cars data
 Sourced From : https://shorturl.at/cioAD
