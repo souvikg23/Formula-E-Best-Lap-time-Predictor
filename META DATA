@@ -1,0 +1,36 @@
+RangeIndex: 285 entries, 0 to 284
+Data columns (total 31 columns):
+ #   Column              Non-Null Count  Dtype  
+---  ------              --------------  -----  
+ 0   Round               285 non-null    int64  
+ 1   City                285 non-null    object 
+ 2   Country             285 non-null    object 
+ 3   Circuit_Name        285 non-null    object 
+ 4   Date                285 non-null    object 
+ 5   Time                285 non-null    object 
+ 6   Weather             285 non-null    float64
+ 7   Track_Length        285 non-null    float64
+ 8   Laps                285 non-null    int64  
+ 9   Added_Laps          285 non-null    int64  
+ 10  Turns               285 non-null    int64  
+ 11  Finish_Position     285 non-null    int64  
+ 12  Driver              285 non-null    object 
+ 13  Driver_Age          285 non-null    float64
+ 14  Driver_Number       285 non-null    float64
+ 15  Nationality         285 non-null    object 
+ 16  Team                285 non-null    object 
+ 17  Powertrain          285 non-null    object 
+ 18  Starting_Position   285 non-null    object 
+ 19  Best_Lap_Time       285 non-null    object 
+ 20  Race_Time           285 non-null    object 
+ 21  Gap                 285 non-null    object 
+ 22  Points              285 non-null    int64  
+ 23  Best_Lap_Min        285 non-null    float64
+ 24  Best_Lap_Sec        285 non-null    float64
+ 25  Best_Lap_Ms         285 non-null    float64
+ 26  Best_Lap_Total_Sec  285 non-null    float64
+ 27  Race_Min            285 non-null    float64
+ 28  Race_Sec            285 non-null    float64
+ 29  Race_Ms             285 non-null    float64
+ 30  Race_Total_Sec      285 non-null    float64
+dtypes: float64(12), int64(6), object(13)
