@@ -1,0 +1,7 @@
+Formula E Lap Time Prediction
+This repository contains a machine learning project that predicts the best lap time of a Formula E track using Random Forest. The project is based on data from Season 9 GEN 3 cars.
+
+Project Overview
+Objective: Predict the best lap time of a Formula E track.
+Algorithm: Random Forest
+Dataset: Season 9 GEN 3 cars data
