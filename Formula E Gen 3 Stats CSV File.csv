@@ -1,0 +1,353 @@
+Round,City,Country,Circuit_Name,Date,Time,Weather,Track_Length,Laps,Added_Laps,Turns,Finish_Position,Driver,Driver_Age,Driver_Number,Nationality,Team,Powertrain,Starting_Position,Best_Lap_Time,Race_Time,Gap,Points
+1,Mexico City,Mexico,Circuit Hermanos Rodriguez,1/14/2023,14:03 - 15:30,20.5˚C,2.630KM,36,5,19,1,Jake Dennis,28,#27,British,Avalanche Andretti Formula E,Porsche 99X Electric Gen3,2,1:14:195,58:25:974,0,26
+1,Mexico City,Mexico,Circuit Hermanos Rodriguez,1/14/2023,14:03 - 15:30,20.5˚C,2.630KM,36,5,19,2,Pascal Wehrlein,28,#94,German,Tag Heuer Porsche Formula E Team,Porsche 99X Electric Gen3,6,1:14:345,58:33:790,+ 0:07:816,18
+1,Mexico City,Mexico,Circuit Hermanos Rodriguez,1/14/2023,14:03 - 15:30,20.5˚C,2.630KM,36,5,19,3,Lucas Di Grassi,38,#11,Brazilian,Mahindra Racing,Mahindra M9Electro,1,1:14:315,58:44:585,+ 0:18:611,18
+1,Mexico City,Mexico,Circuit Hermanos Rodriguez,1/14/2023,14:03 - 15:30,20.5˚C,2.630KM,36,5,19,4,Andre Lotterer,41,#36,German,Avalanche Andretti Formula E,Porsche 99X Electric Gen3,4,1:14:538,58:45:135,+ 0:19:161,12
+1,Mexico City,Mexico,Circuit Hermanos Rodriguez,1/14/2023,14:03 - 15:30,20.5˚C,2.630KM,36,5,19,5,Jake Hughes,29,#5,British,NEOM McLaren Formula E Team,Nissan e-4ORCE 04,3,1:14:759,58:46:263,+ 0:20:289,10
+1,Mexico City,Mexico,Circuit Hermanos Rodriguez,1/14/2023,14:03 - 15:30,20.5˚C,2.630KM,36,5,19,6,Sebastian Buemi,34,#16,Swiss,Envision Racing,Jaguar I-Type 6,7,1:14:691,58:46:688,+ 0:20:714,8
+1,Mexico City,Mexico,Circuit Hermanos Rodriguez,1/14/2023,14:03 - 15:30,20.5˚C,2.630KM,36,5,19,7,Antonio Felix Da Costa,31,#13,Spanish,Tag Heuer Porsche Formula E Team,Porsche 99X Electric Gen3,9,1:14:508,58:47:025,+ 0:21:051,6
+1,Mexico City,Mexico,Circuit Hermanos Rodriguez,1/14/2023,14:03 - 15:30,20.5˚C,2.630KM,36,5,19,8,Mitch Evans,29,#9,New Zealander,Jaguar TCS Racing,Jaguar I-Type 6,10,1:15:061,58:50:732,+ 0:24:758,4
+1,Mexico City,Mexico,Circuit Hermanos Rodriguez,1/14/2023,14:03 - 15:30,20.5˚C,2.630KM,36,5,19,9,Nick Cassidy,28,#37,New Zealander,Envision Racing,Jaguar I-Type 6,12,1:14:724,58:55:124,+ 0:29:150,2
+1,Mexico City,Mexico,Circuit Hermanos Rodriguez,1/14/2023,14:03 - 15:30,20.5˚C,2.630KM,36,5,19,10,Stoffel Vandoorne,31,#1,Belgian,DS Penske,DS E-TENSE FE23,14,1:14:812,58:55:636,+ 0:29:662,1
+1,Mexico City,Mexico,Circuit Hermanos Rodriguez,1/14/2023,14:03 - 15:30,20.5˚C,2.630KM,36,5,19,11,Maximilian Gunther,25,#7,German,Maserati MSG Racing,Maserati Tipo Folgore,17,1:14:754,58:56:250,+ 0:30:276,0
+1,Mexico City,Mexico,Circuit Hermanos Rodriguez,1/14/2023,14:03 - 15:30,20.5˚C,2.630KM,36,5,19,12,Jean-Eric Vergne,33,#25,French,DS Penske,DS E-TENSE FE23,11,1:15:026,58:57:115,+ 0:31:141,0
+1,Mexico City,Mexico,Circuit Hermanos Rodriguez,1/14/2023,14:03 - 15:30,20.5˚C,2.630KM,36,5,19,13,Oliver Rowland,30,#8,British,Mahindra Racing,Mahindra M9Electro,22,1:14:973,58:57:511,+ 0:31:537,0
+1,Mexico City,Mexico,Circuit Hermanos Rodriguez,1/14/2023,14:03 - 15:30,20.5˚C,2.630KM,36,5,19,14,Nico Mueller,31,#51,Swiss,ABT Cupra Formula E Team,Mahindra M9Electro,18,1:15:183,58:57:925,+ 0:31:951,0
+1,Mexico City,Mexico,Circuit Hermanos Rodriguez,1/14/2023,14:03 - 15:30,20.5˚C,2.630KM,36,5,19,15,Sacha Fenestraz,23,#23,French,Nissan Formula E Team,Nissan e-4ORCE 04,8,1:15:119,58:58:329,+ 0:32:355,0
+1,Mexico City,Mexico,Circuit Hermanos Rodriguez,1/14/2023,14:03 - 15:30,20.5˚C,2.630KM,36,5,19,16,Sergio Sette Camara,25,#3,Brazilian,NIO 333 Racing,NIO 333 ER9,13,1:14:957,59:01:179,+ 0:35:205,0
+1,Mexico City,Mexico,Circuit Hermanos Rodriguez,1/14/2023,14:03 - 15:30,20.5˚C,2.630KM,36,5,19,17,Dan Ticktum,24,#33,British,NIO 333 Racing,NIO 333 ER9,5,1:14:391,59:40:346,+ 1:14:372,0
+1,Mexico City,Mexico,Circuit Hermanos Rodriguez,1/14/2023,14:03 - 15:30,20.5˚C,2.630KM,36,5,19,18,Rene Rast,36,#58,German,NEOM McLaren Formula E Team,Nissan e-4ORCE 04,15,1:14:972,DNF,+,0
+1,Mexico City,Mexico,Circuit Hermanos Rodriguez,1/14/2023,14:03 - 15:30,20.5˚C,2.630KM,36,5,19,19,Edoardo Mortara,36,#48,Swiss,Maserati MSG Racing,Maserati Tipo Folgore,16,1:14:648,DNF,+,0
+1,Mexico City,Mexico,Circuit Hermanos Rodriguez,1/14/2023,14:03 - 15:30,20.5˚C,2.630KM,36,5,19,20,Sam Bird,36,#10,British,Jaguar TCS Racing,Jaguar I-Type 6,21,1:25:535,DNF,+,0
+1,Mexico City,Mexico,Circuit Hermanos Rodriguez,1/14/2023,14:03 - 15:30,20.5˚C,2.630KM,36,5,19,21,Norman Nato,30,#17,French,Nissan Formula E Team,Nissan e-4ORCE 04,20,N/A,DNF,+,0
+1,Mexico City,Mexico,Circuit Hermanos Rodriguez,1/14/2023,14:03 - 15:30,20.5˚C,2.630KM,36,5,19,22,Robin Frijns,31,#4,Dutch,ABT Cupra Formula E Team,Mahindra M9Electro,19,N/A,DNF,+,0
+2,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/27/2023,20:03 - 21:30,15˚C,2.490KM,39,0,21,1,Pascal Wehrlein,28,#94,German,Tag Heuer Porsche Formula E Team,Porsche 99X Electric Gen3,9,1:10:378,47:45:567,0,25
+2,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/27/2023,20:03 - 21:30,15˚C,2.490KM,39,0,21,2,Jake Dennis,28,#27,British,Avalanche Andretti Formula E,Porsche 99X Electric Gen3,11,1:10:160,47:46:098,+ 0:00:531,18
+2,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/27/2023,20:03 - 21:30,15˚C,2.490KM,39,0,21,3,Sam Bird,36,#10,British,Jaguar TCS Racing,Jaguar I-Type 6,3,1:10:844,47:49:093,+ 0:03:526,15
+2,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/27/2023,20:03 - 21:30,15˚C,2.490KM,39,0,21,4,Sebastian Buemi,34,#16,Swiss,Envision Racing,Jaguar I-Type 6,1,1:10:911,47:51:615,+ 0:06:048,15
+2,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/27/2023,20:03 - 21:30,15˚C,2.490KM,39,0,21,5,Rene Rast,36,#58,German,NEOM McLaren Formula E Team,Nissan e-4ORCE 04,5,1:10:117,47:53:038,+ 0:07:471,11
+2,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/27/2023,20:03 - 21:30,15˚C,2.490KM,39,0,21,6,Nick Cassidy,28,#37,New Zealander,Envision Racing,Jaguar I-Type 6,10,1:10:229,47:53:181,+ 0:07:614,8
+2,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/27/2023,20:03 - 21:30,15˚C,2.490KM,39,0,21,7,Jean-Eric Vergne,33,#25,French,DS Penske,DS E-TENSE FE23,12,1:10:524,47:57:961,+ 0:12:394,6
+2,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/27/2023,20:03 - 21:30,15˚C,2.490KM,39,0,21,8,Jake Hughes,29,#5,British,NEOM McLaren Formula E Team,Nissan e-4ORCE 04,2,1:10:776,48:00:754,+ 0:15:187,4
+2,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/27/2023,20:03 - 21:30,15˚C,2.490KM,39,0,21,9,Andre Lotterer,41,#36,German,Avalanche Andretti Formula E,Porsche 99X Electric Gen3,15,1:10:514,48:01:130,+ 0:15:563,2
+2,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/27/2023,20:03 - 21:30,15˚C,2.490KM,39,0,21,10,Mitch Evans,29,#9,New Zealander,Jaguar TCS Racing,Jaguar I-Type 6,6,1:10:708,48:03:481,+ 0:17:914,1
+2,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/27/2023,20:03 - 21:30,15˚C,2.490KM,39,0,21,11,Stoffel Vandoorne,31,#1,Belgian,DS Penske,DS E-TENSE FE23,17,1:10:759,48:11:874,+ 0:26:307,0
+2,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/27/2023,20:03 - 21:30,15˚C,2.490KM,39,0,21,12,Norman Nato,30,#17,French,Nissan Formula E Team,Nissan e-4ORCE 04,16,1:10:418,48:12:637,+ 0:27:070,0
+2,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/27/2023,20:03 - 21:30,15˚C,2.490KM,39,0,21,13,Lucas Di Grassi,38,#11,Brazilian,Mahindra Racing,Mahindra M9Electro,7,1:11:099,48:14:366,+ 0:28:799,0
+2,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/27/2023,20:03 - 21:30,15˚C,2.490KM,39,0,21,14,Dan Ticktum,24,#33,British,NIO 333 Racing,NIO 333 ER9,4,1:11:387,48:22:885,+ 0:37:318,0
+2,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/27/2023,20:03 - 21:30,15˚C,2.490KM,39,0,21,15,Sergio Sette Camara,25,#3,Brazilian,NIO 333 Racing,NIO 333 ER9,14,1:11:203,48:30:601,+ 0:45:034,0
+2,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/27/2023,20:03 - 21:30,15˚C,2.490KM,39,0,21,16,Kelvin Van Der Linde,27,#4,South African,ABT Cupra Formula E Team,Mahindra M9Electro,19,1:11:344,48:45:702,+ 1:00:135,0
+2,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/27/2023,20:03 - 21:30,15˚C,2.490KM,39,0,21,17,Sacha Fenestraz,23,#23,French,Nissan Formula E Team,Nissan e-4ORCE 04,18,1:11:014,48:55:114,+ 1:09:547,0
+2,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/27/2023,20:03 - 21:30,15˚C,2.490KM,39,0,21,18,Antonio Felix Da Costa,31,#13,Spanish,Tag Heuer Porsche Formula E Team,Porsche 99X Electric Gen3,13,1:10:922,48:22:025,+ ,0
+2,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/27/2023,20:03 - 21:30,15˚C,2.490KM,39,0,21,19,Oliver Rowland,30,#8,British,Mahindra Racing,Mahindra M9Electro,8,1:11:418,48:38:092,+ ,0
+2,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/27/2023,20:03 - 21:30,15˚C,2.490KM,39,0,21,20,Edoardo Mortara,36,#48,Swiss,Maserati MSG Racing,Maserati Tipo Folgore,20,1:11:364,DNF,+,0
+2,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/27/2023,20:03 - 21:30,15˚C,2.490KM,39,0,21,21,Maximilian Gunther,25,#7,German,Maserati MSG Racing,Maserati Tipo Folgore,DNS,DNS,DNS,+,0
+2,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/27/2023,20:03 - 21:30,15˚C,2.490KM,39,0,21,22,Nico Mueller,31,#51,Swiss,ABT Cupra Formula E Team,Mahindra M9Electro,21,1:12:350,DNF,+,0
+3,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/28/2023,20:03 - 21:30,17˚C,2.490KM,39,1,21,1,Pascal Wehrlein,28,#94,German,Tag Heuer Porsche Formula E Team,Porsche 99X Electric Gen3,5,1:09:409,50:40:304,0,25
+3,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/28/2023,20:03 - 21:30,17˚C,2.490KM,39,1,21,2,Jake Dennis,28,#27,British,Avalanche Andretti Formula E,Porsche 99X Electric Gen3,6,1:09:114,50:41:556,+ 0:01:252,18
+3,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/28/2023,20:03 - 21:30,17˚C,2.490KM,39,1,21,3,Rene Rast,36,#58,German,NEOM McLaren Formula E Team,Nissan e-4ORCE 04,3,1:09:584,50:44:858,+ 0:04:554,15
+3,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/28/2023,20:03 - 21:30,17˚C,2.490KM,39,1,21,4,Sam Bird,36,#10,British,Jaguar TCS Racing,Jaguar I-Type 6,9,1:09:010,50:45:155,+ 0:04:851,13
+3,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/28/2023,20:03 - 21:30,17˚C,2.490KM,39,1,21,5,Jake Hughes,29,#5,British,NEOM McLaren Formula E Team,Nissan e-4ORCE 04,1,1:09:846,50:51:173,+ 0:10:869,13
+3,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/28/2023,20:03 - 21:30,17˚C,2.490KM,39,1,21,6,Sebastian Buemi,34,#16,Swiss,Envision Racing,Jaguar I-Type 6,4,1:09:876,50:51:251,+ 0:10:947,8
+3,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/28/2023,20:03 - 21:30,17˚C,2.490KM,39,1,21,7,Mitch Evans,29,#9,New Zealander,Jaguar TCS Racing,Jaguar I-Type 6,2,1:09:817,50:51:392,+ 0:11:088,6
+3,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/28/2023,20:03 - 21:30,17˚C,2.490KM,39,1,21,8,Sacha Fenestraz,23,#23,French,Nissan Formula E Team,Nissan e-4ORCE 04,12,1:09:631,50:52:713,+ 0:12:409,4
+3,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/28/2023,20:03 - 21:30,17˚C,2.490KM,39,1,21,9,Edoardo Mortara,36,#48,Swiss,Maserati MSG Racing,Maserati Tipo Folgore,7,1:10:022,50:53:057,+ 0:12:753,2
+3,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/28/2023,20:03 - 21:30,17˚C,2.490KM,39,1,21,10,Dan Ticktum,24,#33,British,NIO 333 Racing,NIO 333 ER9,11,1:09:690,50:53:579,+ 0:13:275,1
+3,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/28/2023,20:03 - 21:30,17˚C,2.490KM,39,1,21,11,Antonio Felix Da Costa,31,#13,Spanish,Tag Heuer Porsche Formula E Team,Porsche 99X Electric Gen3,17,1:09:970,50:55:533,+ 0:15:229,0
+3,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/28/2023,20:03 - 21:30,17˚C,2.490KM,39,1,21,12,Andre Lotterer,41,#36,German,Avalanche Andretti Formula E,Porsche 99X Electric Gen3,18,1:09:876,50:55:927,+ 0:15:623,0
+3,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/28/2023,20:03 - 21:30,17˚C,2.490KM,39,1,21,13,Nick Cassidy,28,#37,New Zealander,Envision Racing,Jaguar I-Type 6,15,1:09:233,50:57:342,+ 0:17:038,0
+3,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/28/2023,20:03 - 21:30,17˚C,2.490KM,39,1,21,14,Norman Nato,30,#17,French,Nissan Formula E Team,Nissan e-4ORCE 04,19,1:10:237,50:59:873,+ 0:19:569,0
+3,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/28/2023,20:03 - 21:30,17˚C,2.490KM,39,1,21,15,Lucas Di Grassi,38,#11,Brazilian,Mahindra Racing,Mahindra M9Electro,20,1:10:582,51:01:100,+ 0:20:796,0
+3,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/28/2023,20:03 - 21:30,17˚C,2.490KM,39,1,21,16,Jean-Eric Vergne,33,#25,French,DS Penske,DS E-TENSE FE23,16,1:10:166,51:01:525,+ 0:21:221,0
+3,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/28/2023,20:03 - 21:30,17˚C,2.490KM,39,1,21,17,Sergio Sette Camara,25,#3,Brazilian,NIO 333 Racing,NIO 333 ER9,13,1:10:577,51:02:547,+ 0:22:243,0
+3,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/28/2023,20:03 - 21:30,17˚C,2.490KM,39,1,21,18,Kelvin Van Der Linde,27,#4,South African,ABT Cupra Formula E Team,Mahindra M9Electro,21,1:10:597,51:05:595,+ 0:25:291,0
+3,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/28/2023,20:03 - 21:30,17˚C,2.490KM,39,1,21,19,Maximilian Gunther,25,#7,German,Maserati MSG Racing,Maserati Tipo Folgore,10,1:09:985,51:07:441,+ 0:27:137,0
+3,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/28/2023,20:03 - 21:30,17˚C,2.490KM,39,1,21,20,Stoffel Vandoorne,31,#1,Belgian,DS Penske,DS E-TENSE FE23,8,1:10:125,51:17:876,+ 0:37:572,0
+3,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/28/2023,20:03 - 21:30,17˚C,2.490KM,39,1,21,21,Oliver Rowland,30,#8,British,Mahindra Racing,Mahindra M9Electro,14,1:11:186,DNF,+,0
+3,Diriyah,Saudi Arabia,Diriyah Street Circuit,1/28/2023,20:03 - 21:30,17˚C,2.490KM,39,1,21,22,Nico Mueller,31,#51,Swiss,ABT Cupra Formula E Team,Mahindra M9Electro,22,1:11:055,DNF,+,0
+4,Hyderabad,India,Hyderabad Street Circuit,2/11/2023,15:03 - 16:30,34˚C,2.835KM,32,1,18,1,Jean-Eric Vergne,33,#25,French,DS Penske,DS E-TENSE FE23,2,1:15:325,46:01:099,0,25
+4,Hyderabad,India,Hyderabad Street Circuit,2/11/2023,15:03 - 16:30,34˚C,2.835KM,32,1,18,2,Nick Cassidy,28,#37,New Zealander,Envision Racing,Jaguar I-Type 6,9,1:15:053,46:01:499,+ 0:00:400,18
+4,Hyderabad,India,Hyderabad Street Circuit,2/11/2023,15:03 - 16:30,34˚C,2.835KM,32,1,18,3,Antonio Felix Da Costa,31,#13,Spanish,Tag Heuer Porsche Formula E Team,Porsche 99X Electric Gen3,13,1:15:168,46:02:958,+ 0:01:859,15
+4,Hyderabad,India,Hyderabad Street Circuit,2/11/2023,15:03 - 16:30,34˚C,2.835KM,32,1,18,4,Pascal Wehrlein,28,#94,German,Tag Heuer Porsche Formula E Team,Porsche 99X Electric Gen3,12,1:14:800,46:03:954,+ 0:02:855,12
+4,Hyderabad,India,Hyderabad Street Circuit,2/11/2023,15:03 - 16:30,34˚C,2.835KM,32,1,18,5,Sergio Sette Camara,25,#3,Brazilian,NIO 333 Racing,NIO 333 ER9,15,1:15:371,46:04:622,+ 0:03:523,10
+4,Hyderabad,India,Hyderabad Street Circuit,2/11/2023,15:03 - 16:30,34˚C,2.835KM,32,1,18,6,Oliver Rowland,30,#8,British,Mahindra Racing,Mahindra M9Electro,10,1:15:199,46:08:237,+ 0:07:138,8
+4,Hyderabad,India,Hyderabad Street Circuit,2/11/2023,15:03 - 16:30,34˚C,2.835KM,32,1,18,7,Norman Nato,30,#17,French,Nissan Formula E Team,Nissan e-4ORCE 04,14,1:14:698,46:08:417,+ 0:07:318,7
+4,Hyderabad,India,Hyderabad Street Circuit,2/11/2023,15:03 - 16:30,34˚C,2.835KM,32,1,18,8,Stoffel Vandoorne,31,#1,Belgian,DS Penske,DS E-TENSE FE23,17,1:15:077,46:08:663,+ 0:07:564,4
+4,Hyderabad,India,Hyderabad Street Circuit,2/11/2023,15:03 - 16:30,34˚C,2.835KM,32,1,18,9,Andre Lotterer,41,#36,German,Avalanche Andretti Formula E,Porsche 99X Electric Gen3,20,1:14:847,46:09:802,+ 0:08:703,2
+4,Hyderabad,India,Hyderabad Street Circuit,2/11/2023,15:03 - 16:30,34˚C,2.835KM,32,1,18,10,Edoardo Mortara,36,#48,Swiss,Maserati MSG Racing,Maserati Tipo Folgore,7,1:14:810,46:10:172,+ 0:09:073,1
+4,Hyderabad,India,Hyderabad Street Circuit,2/11/2023,15:03 - 16:30,34˚C,2.835KM,32,1,18,11,Nico Mueller,31,#51,Swiss,ABT Cupra Formula E Team,Mahindra M9Electro,18,1:14:656,46:11:721,+ 0:10:622,0
+4,Hyderabad,India,Hyderabad Street Circuit,2/11/2023,15:03 - 16:30,34˚C,2.835KM,32,1,18,12,Sacha Fenestraz,23,#23,French,Nissan Formula E Team,Nissan e-4ORCE 04,4,1:15:031,46:12:734,+ 0:11:635,0
+4,Hyderabad,India,Hyderabad Street Circuit,2/11/2023,15:03 - 16:30,34˚C,2.835KM,32,1,18,13,Maximilian Gunther,25,#7,German,Maserati MSG Racing,Maserati Tipo Folgore,5,1:15:273,46:16:545,+ 0:15:446,0
+4,Hyderabad,India,Hyderabad Street Circuit,2/11/2023,15:03 - 16:30,34˚C,2.835KM,32,1,18,14,Lucas Di Grassi,38,#11,Brazilian,Mahindra Racing,Mahindra M9Electro,19,1:14:757,46:17:098,+ 0:15:999,0
+4,Hyderabad,India,Hyderabad Street Circuit,2/11/2023,15:03 - 16:30,34˚C,2.835KM,32,1,18,15,Sebastian Buemi,34,#16,Swiss,Envision Racing,Jaguar I-Type 6,3,1:15:460,46:18:834,+ 0:17:735,0
+4,Hyderabad,India,Hyderabad Street Circuit,2/11/2023,15:03 - 16:30,34˚C,2.835KM,32,1,18,16,Jake Dennis,28,#27,British,Avalanche Andretti Formula E,Porsche 99X Electric Gen3,11,1:14:677,47:11:661,+ 1:10:562,0
+4,Hyderabad,India,Hyderabad Street Circuit,2/11/2023,15:03 - 16:30,34˚C,2.835KM,32,1,18,17,Dan Ticktum,24,#33,British,NIO 333 Racing,NIO 333 ER9,16,1:15:861,DNF,+,0
+4,Hyderabad,India,Hyderabad Street Circuit,2/11/2023,15:03 - 16:30,34˚C,2.835KM,32,1,18,18,Jake Hughes,29,#5,British,NEOM McLaren Formula E Team,Nissan e-4ORCE 04,21,1:15:288,DNF,+,0
+4,Hyderabad,India,Hyderabad Street Circuit,2/11/2023,15:03 - 16:30,34˚C,2.835KM,32,1,18,19,Mitch Evans,29,#9,New Zealander,Jaguar TCS Racing,Jaguar I-Type 6,1,1:15:961,DNF,+,3
+4,Hyderabad,India,Hyderabad Street Circuit,2/11/2023,15:03 - 16:30,34˚C,2.835KM,32,1,18,20,Kelvin Van Der Linde,27,#4,South African,ABT Cupra Formula E Team,Mahindra M9Electro,22,1:17:047,DNF,+,0
+4,Hyderabad,India,Hyderabad Street Circuit,2/11/2023,15:03 - 16:30,34˚C,2.835KM,32,1,18,21,Sam Bird,36,#10,British,Jaguar TCS Racing,Jaguar I-Type 6,6,1:15:469,DNF,+,0
+4,Hyderabad,India,Hyderabad Street Circuit,2/11/2023,15:03 - 16:30,34˚C,2.835KM,32,1,18,22,Rene Rast,36,#58,German,NEOM McLaren Formula E Team,Nissan e-4ORCE 04,8,1:15:510,DNF,+,0
+5,Cape Town,South Africa,Cape Town Street Circuit,2/25/2023,16:03 - 17:30,23˚C,2.927KM,30,2,13,1,Antonio Felix Da Costa,31,#13,Spanish,Tag Heuer Porsche Formula E Team,Porsche 99X Electric Gen3,11,1:09:810,42:25:403,0,25
+5,Cape Town,South Africa,Cape Town Street Circuit,2/25/2023,16:03 - 17:30,23˚C,2.927KM,30,2,13,2,Jean-Eric Vergne,33,#25,French,DS Penske,DS E-TENSE FE23,5,1:09:740,42:25:684,+ 0:00:281,19
+5,Cape Town,South Africa,Cape Town Street Circuit,2/25/2023,16:03 - 17:30,23˚C,2.927KM,30,2,13,3,Nick Cassidy,28,#37,New Zealander,Envision Racing,Jaguar I-Type 6,3,1:10:249,42:27:211,+ 0:01:808,15
+5,Cape Town,South Africa,Cape Town Street Circuit,2/25/2023,16:03 - 17:30,23˚C,2.927KM,30,2,13,4,Rene Rast,36,#58,German,NEOM McLaren Formula E Team,Nissan e-4ORCE 04,10,1:09:946,42:27:611,+ 0:02:208,12
+5,Cape Town,South Africa,Cape Town Street Circuit,2/25/2023,16:03 - 17:30,23˚C,2.927KM,30,2,13,5,Sebastian Buemi,34,#16,Swiss,Envision Racing,Jaguar I-Type 6,7,1:10:152,42:28:059,+ 0:02:656,10
+5,Cape Town,South Africa,Cape Town Street Circuit,2/25/2023,16:03 - 17:30,23˚C,2.927KM,30,2,13,6,Dan Ticktum,24,#33,British,NIO 333 Racing,NIO 333 ER9,8,1:10:079,42:28:612,+ 0:03:209,8
+5,Cape Town,South Africa,Cape Town Street Circuit,2/25/2023,16:03 - 17:30,23˚C,2.927KM,30,2,13,7,Stoffel Vandoorne,31,#1,Belgian,DS Penske,DS E-TENSE FE23,12,1:10:027,42:29:613,+ 0:04:210,6
+5,Cape Town,South Africa,Cape Town Street Circuit,2/25/2023,16:03 - 17:30,23˚C,2.927KM,30,2,13,8,Norman Nato,30,#17,French,Nissan Formula E Team,Nissan e-4ORCE 04,9,1:10:490,42:33:985,+ 0:08:582,4
+5,Cape Town,South Africa,Cape Town Street Circuit,2/25/2023,16:03 - 17:30,23˚C,2.927KM,30,2,13,9,Andre Lotterer,41,#36,German,Avalanche Andretti Formula E,Porsche 99X Electric Gen3,15,1:10:322,42:34:158,+ 0:08:755,2
+5,Cape Town,South Africa,Cape Town Street Circuit,2/25/2023,16:03 - 17:30,23˚C,2.927KM,30,2,13,10,Jake Hughes,29,#5,British,NEOM McLaren Formula E Team,Nissan e-4ORCE 04,13,1:10:248,42:35:878,+ 0:10:475,1
+5,Cape Town,South Africa,Cape Town Street Circuit,2/25/2023,16:03 - 17:30,23˚C,2.927KM,30,2,13,11,Mitch Evans,29,#9,New Zealander,Jaguar TCS Racing,Jaguar I-Type 6,4,1:09:951,42:39:586,+ 0:14:183,0
+5,Cape Town,South Africa,Cape Town Street Circuit,2/25/2023,16:03 - 17:30,23˚C,2.927KM,30,2,13,12,Sergio Sette Camara,25,#3,Brazilian,NIO 333 Racing,NIO 333 ER9,16,1:10:788,42:40:317,+ 0:14:914,0
+5,Cape Town,South Africa,Cape Town Street Circuit,2/25/2023,16:03 - 17:30,23˚C,2.927KM,30,2,13,13,Jake Dennis,28,#27,British,Avalanche Andretti Formula E,Porsche 99X Electric Gen3,14,1:10:060,43:04:249,+ 0:38:846,0
+5,Cape Town,South Africa,Cape Town Street Circuit,2/25/2023,16:03 - 17:30,23˚C,2.927KM,30,2,13,14,Pascal Wehrlein,28,#94,German,Tag Heuer Porsche Formula E Team,Porsche 99X Electric Gen3,6,N/A,0,+,0
+5,Cape Town,South Africa,Cape Town Street Circuit,2/25/2023,16:03 - 17:30,23˚C,2.927KM,30,2,13,15,Edoardo Mortara,36,#48,Swiss,Maserati MSG Racing,Maserati Tipo Folgore,17,N/A,DNF,+,0
+5,Cape Town,South Africa,Cape Town Street Circuit,2/25/2023,16:03 - 17:30,23˚C,2.927KM,30,2,13,16,Sacha Fenestraz,23,#23,French,Nissan Formula E Team,Nissan e-4ORCE 04,1,1:10:139,43:13:016,+,3
+5,Cape Town,South Africa,Cape Town Street Circuit,2/25/2023,16:03 - 17:30,23˚C,2.927KM,30,2,13,17,Maximilian Gunther,25,#7,German,Maserati MSG Racing,Maserati Tipo Folgore,2,1:10:247,DNF,+,0
+5,Cape Town,South Africa,Cape Town Street Circuit,2/25/2023,16:03 - 17:30,23˚C,2.927KM,30,2,13,18,Sam Bird,36,#10,British,Jaguar TCS Racing,Jaguar I-Type 6,DNS,DNS,DNS,DNS,0
+5,Cape Town,South Africa,Cape Town Street Circuit,2/25/2023,16:03 - 17:30,23˚C,2.927KM,30,2,13,19,Lucas Di Grassi,,#11,Brazilian,Mahindra Racing,Mahindra M9Electro,DNS,DNS,DNS,+,0
+5,Cape Town,South Africa,Cape Town Street Circuit,2/25/2023,16:03 - 17:30,23˚C,2.927KM,30,2,13,20,Oliver Rowland,30,#8,British,Mahindra Racing,Mahindra M9Electro,DNS,DNS,DNS,+,0
+5,Cape Town,South Africa,Cape Town Street Circuit,2/25/2023,16:03 - 17:30,23˚C,2.927KM,30,2,13,21,Robin Frijns,31,#4,Dutch,ABT Cupra Formula E Team,Mahindra M9Electro,DNS,DNS,DNS,+,0
+5,Cape Town,South Africa,Cape Town Street Circuit,2/25/2023,16:03 - 17:30,23˚C,2.927KM,30,2,13,22,Nico Mueller,31,#51,Swiss,ABT Cupra Formula E Team,Mahindra M9Electro,DNS,DNS,DNS,+,0
+6,Sao Paulo,Brazil,Anhembi Sambadrome,3/25/2023,14:03 - 15:30,30˚C,2.933KM,31,4,11,1,Mitch Evans,29,#9,New Zealander,Jaguar TCS Racing,Jaguar I-Type 6,3,1:14:258,53:25:536,0,25
+6,Sao Paulo,Brazil,Anhembi Sambadrome,3/25/2023,14:03 - 15:30,30˚C,2.933KM,31,4,11,2,Nick Cassidy,28,#37,New Zealander,Envision Racing,Jaguar I-Type 6,5,1:14:174,53:25:820,+ 0:00:284,18
+6,Sao Paulo,Brazil,Anhembi Sambadrome,3/25/2023,14:03 - 15:30,30˚C,2.933KM,31,4,11,3,Sam Bird,36,#10,British,Jaguar TCS Racing,Jaguar I-Type 6,10,1:13:684,53:26:043,+ 0:00:507,16
+6,Sao Paulo,Brazil,Anhembi Sambadrome,3/25/2023,14:03 - 15:30,30˚C,2.933KM,31,4,11,4,Antonio Felix Da Costa,31,#13,Spanish,Tag Heuer Porsche Formula E Team,Porsche 99X Electric Gen3,2,1:14:007,53:29:023,+ 0:03:487,12
+6,Sao Paulo,Brazil,Anhembi Sambadrome,3/25/2023,14:03 - 15:30,30˚C,2.933KM,31,4,11,5,Jean-Eric Vergne,33,#25,French,DS Penske,DS E-TENSE FE23,7,1:14:207,53:29:578,+ 0:04:042,10
+6,Sao Paulo,Brazil,Anhembi Sambadrome,3/25/2023,14:03 - 15:30,30˚C,2.933KM,31,4,11,6,Stoffel Vandoorne,31,#1,Belgian,DS Penske,DS E-TENSE FE23,1,1:14:095,53:30:112,+ 0:04:576,11
+6,Sao Paulo,Brazil,Anhembi Sambadrome,3/25/2023,14:03 - 15:30,30˚C,2.933KM,31,4,11,7,Pascal Wehrlein,28,#94,German,Tag Heuer Porsche Formula E Team,Porsche 99X Electric Gen3,18,1:14:347,53:31:195,+ 0:05:659,6
+6,Sao Paulo,Brazil,Anhembi Sambadrome,3/25/2023,14:03 - 15:30,30˚C,2.933KM,31,4,11,8,Jake Hughes,29,#5,British,NEOM McLaren Formula E Team,Nissan e-4ORCE 04,6,1:14:130,53:31:677,+ 0:06:141,4
+6,Sao Paulo,Brazil,Anhembi Sambadrome,3/25/2023,14:03 - 15:30,30˚C,2.933KM,31,4,11,9,Rene Rast,36,#58,German,NEOM McLaren Formula E Team,Nissan e-4ORCE 04,11,1:14:244,53:32:939,+ 0:07:403,2
+6,Sao Paulo,Brazil,Anhembi Sambadrome,3/25/2023,14:03 - 15:30,30˚C,2.933KM,31,4,11,10,Sebastian Buemi,34,#16,Swiss,Envision Racing,Jaguar I-Type 6,12,1:13:771,53:33:512,+ 0:07:976,1
+6,Sao Paulo,Brazil,Anhembi Sambadrome,3/25/2023,14:03 - 15:30,30˚C,2.933KM,31,4,11,11,Maximilian Gunther,25,#7,German,Maserati MSG Racing,Maserati Tipo Folgore,9,1:13:995,53:40:728,+ 0:15:192,0
+6,Sao Paulo,Brazil,Anhembi Sambadrome,3/25/2023,14:03 - 15:30,30˚C,2.933KM,31,4,11,12,Andre Lotterer,41,#36,German,Avalanche Andretti Formula E,Porsche 99X Electric Gen3,21,1:13:922,53:40:881,+ 0:15:345,0
+6,Sao Paulo,Brazil,Anhembi Sambadrome,3/25/2023,14:03 - 15:30,30˚C,2.933KM,31,4,11,13,Lucas Di Grassi,38,#11,Brazilian,Mahindra Racing,Mahindra M9Electro,22,1:14:073,53:44:783,+ 0:19:247,0
+6,Sao Paulo,Brazil,Anhembi Sambadrome,3/25/2023,14:03 - 15:30,30˚C,2.933KM,31,4,11,14,Robin Frijns,31,#4,Dutch,ABT Cupra Formula E Team,Mahindra M9Electro,20,1:14:799,53:46:287,+ 0:20:751,0
+6,Sao Paulo,Brazil,Anhembi Sambadrome,3/25/2023,14:03 - 15:30,30˚C,2.933KM,31,4,11,15,Oliver Rowland,30,#8,British,Mahindra Racing,Mahindra M9Electro,19,1:14:591,53:47:001,+ 0:21:465,0
+6,Sao Paulo,Brazil,Anhembi Sambadrome,3/25/2023,14:03 - 15:30,30˚C,2.933KM,31,4,11,16,Sergio Sette Camara,25,#3,Brazilian,NIO 333 Racing,NIO 333 ER9,16,1:15:433,53:57:050,+ 0:31:514,0
+6,Sao Paulo,Brazil,Anhembi Sambadrome,3/25/2023,14:03 - 15:30,30˚C,2.933KM,31,4,11,17,Dan Ticktum,24,#33,British,NIO 333 Racing,NIO 333 ER9,17,1:14:374,53:59:934,+ 0:34:398,0
+6,Sao Paulo,Brazil,Anhembi Sambadrome,3/25/2023,14:03 - 15:30,30˚C,2.933KM,31,4,11,18,Jake Dennis,28,#27,British,Avalanche Andretti Formula E,Porsche 99X Electric Gen3,14,1:16:435,DNF,+,0
+6,Sao Paulo,Brazil,Anhembi Sambadrome,3/25/2023,14:03 - 15:30,30˚C,2.933KM,31,4,11,19,Edoardo Mortara,36,#48,Swiss,Maserati MSG Racing,Maserati Tipo Folgore,4,1:16:891,DNF,+,0
+6,Sao Paulo,Brazil,Anhembi Sambadrome,3/25/2023,14:03 - 15:30,30˚C,2.933KM,31,4,11,20,Sacha Fenestraz,23,#23,French,Nissan Formula E Team,Nissan e-4ORCE 04,15,1:16:954,DNF,+,0
+6,Sao Paulo,Brazil,Anhembi Sambadrome,3/25/2023,14:03 - 15:30,30˚C,2.933KM,31,4,11,21,Nico Mueller,31,#51,Swiss,ABT Cupra Formula E Team,Mahindra M9Electro,13,1:16:990,DNF,+,0
+6,Sao Paulo,Brazil,Anhembi Sambadrome,3/25/2023,14:03 - 15:30,30˚C,2.933KM,31,4,11,22,Norman Nato,30,#17,French,Nissan Formula E Team,Nissan e-4ORCE 04,8,DNS,DNS,DNS,0
+7,Berlin,Germany,Tempelhof Airport Street Circuit,4/22/2023,15:03 - 16:30,20˚C,2.355KM,40,3,10,1,Mitch Evans,29,#9,New Zealander,Jaguar TCS Racing,Jaguar I-Type 6,9,1:07:458,55:10:391,0,25
+7,Berlin,Germany,Tempelhof Airport Street Circuit,4/22/2023,15:03 - 16:30,20˚C,2.355KM,40,3,10,2,Sam Bird,36,#10,British,Jaguar TCS Racing,Jaguar I-Type 6,2,1:07:663,55:12:241,+ 0:01:850,18
+7,Berlin,Germany,Tempelhof Airport Street Circuit,4/22/2023,15:03 - 16:30,20˚C,2.355KM,40,3,10,3,Maximilian Gunther,25,#7,German,Maserati MSG Racing,Maserati Tipo Folgore,8,1:07:537,55:13:129,+ 0:02:738,15
+7,Berlin,Germany,Tempelhof Airport Street Circuit,4/22/2023,15:03 - 16:30,20˚C,2.355KM,40,3,10,4,Sebastian Buemi,34,#16,Swiss,Envision Racing,Jaguar I-Type 6,1,1:07:390,55:13:240,+ 0:02:849,15
+7,Berlin,Germany,Tempelhof Airport Street Circuit,4/22/2023,15:03 - 16:30,20˚C,2.355KM,40,3,10,5,Nick Cassidy,28,#37,New Zealander,Envision Racing,Jaguar I-Type 6,6,1:07:295,55:15:178,+ 0:04:787,10
+7,Berlin,Germany,Tempelhof Airport Street Circuit,4/22/2023,15:03 - 16:30,20˚C,2.355KM,40,3,10,6,Pascal Wehrlein,28,#94,German,Tag Heuer Porsche Formula E Team,Porsche 99X Electric Gen3,15,1:07:708,55:19:502,+ 0:09:111,8
+7,Berlin,Germany,Tempelhof Airport Street Circuit,4/22/2023,15:03 - 16:30,20˚C,2.355KM,40,3,10,7,Jean-Eric Vergne,33,#25,French,DS Penske,DS E-TENSE FE23,10,1:07:782,55:19:582,+ 0:09:191,6
+7,Berlin,Germany,Tempelhof Airport Street Circuit,4/22/2023,15:03 - 16:30,20˚C,2.355KM,40,3,10,8,Andre Lotterer,41,#36,German,Avalanche Andretti Formula E,Porsche 99X Electric Gen3,13,1:07:269,55:19:895,+ 0:09:504,5
+7,Berlin,Germany,Tempelhof Airport Street Circuit,4/22/2023,15:03 - 16:30,20˚C,2.355KM,40,3,10,9,Edoardo Mortara,36,#48,Swiss,Maserati MSG Racing,Maserati Tipo Folgore,11,1:07:915,55:20:550,+ 0:10:159,2
+7,Berlin,Germany,Tempelhof Airport Street Circuit,4/22/2023,15:03 - 16:30,20˚C,2.355KM,40,3,10,10,Oliver Rowland,30,#8,British,Mahindra Racing,Mahindra M9Electro,21,1:07:632,55:20:699,+ 0:10:308,1
+7,Berlin,Germany,Tempelhof Airport Street Circuit,4/22/2023,15:03 - 16:30,20˚C,2.355KM,40,3,10,11,Lucas Di Grassi,38,#11,Brazilian,Mahindra Racing,Mahindra M9Electro,20,1:08:190,55:29:840,+ 0:19:449,0
+7,Berlin,Germany,Tempelhof Airport Street Circuit,4/22/2023,15:03 - 16:30,20˚C,2.355KM,40,3,10,12,Sacha Fenestraz,23,#23,French,Nissan Formula E Team,Nissan e-4ORCE 04,18,1:07:734,55:31:940,+ 0:21:549,0
+7,Berlin,Germany,Tempelhof Airport Street Circuit,4/22/2023,15:03 - 16:30,20˚C,2.355KM,40,3,10,13,Norman Nato,30,#17,French,Nissan Formula E Team,Nissan e-4ORCE 04,16,1:08:020,55:34:952,+ 0:24:561,0
+7,Berlin,Germany,Tempelhof Airport Street Circuit,4/22/2023,15:03 - 16:30,20˚C,2.355KM,40,3,10,14,Robin Frijns,31,#4,Dutch,ABT Cupra Formula E Team,Mahindra M9Electro,22,1:08:278,55:36:018,+ 0:25:627,0
+7,Berlin,Germany,Tempelhof Airport Street Circuit,4/22/2023,15:03 - 16:30,20˚C,2.355KM,40,3,10,15,Nico Mueller,31,#51,Swiss,ABT Cupra Formula E Team,Mahindra M9Electro,17,1:08:343,55:37:971,+ 0:27:580,0
+7,Berlin,Germany,Tempelhof Airport Street Circuit,4/22/2023,15:03 - 16:30,20˚C,2.355KM,40,3,10,16,Sergio Sette Camara,25,#3,Brazilian,NIO 333 Racing,NIO 333 ER9,7,1:08:860,55:45:238,+ 0:34:847,0
+7,Berlin,Germany,Tempelhof Airport Street Circuit,4/22/2023,15:03 - 16:30,20˚C,2.355KM,40,3,10,17,Rene Rast,36,#58,German,NEOM McLaren Formula E Team,Nissan e-4ORCE 04,14,1:08:359,56:00:591,+,0
+7,Berlin,Germany,Tempelhof Airport Street Circuit,4/22/2023,15:03 - 16:30,20˚C,2.355KM,40,3,10,18,Jake Dennis,28,#27,British,Avalanche Andretti Formula E,Porsche 99X Electric Gen3,5,1:06:604,56:18:983,+,0
+7,Berlin,Germany,Tempelhof Airport Street Circuit,4/22/2023,15:03 - 16:30,20˚C,2.355KM,40,3,10,19,Dan Ticktum,24,#33,British,NIO 333 Racing,NIO 333 ER9,4,1:09:658,DNF,DNF,0
+7,Berlin,Germany,Tempelhof Airport Street Circuit,4/22/2023,15:03 - 16:30,20˚C,2.355KM,40,3,10,20,Jake Hughes,29,#5,British,NEOM McLaren Formula E Team,Nissan e-4ORCE 04,12,1:09:129,DNF,DNF,0
+7,Berlin,Germany,Tempelhof Airport Street Circuit,4/22/2023,15:03 - 16:30,20˚C,2.355KM,40,3,10,21,Stoffel Vandoorne,31,#1,Belgian,DS Penske,DS E-TENSE FE23,3,1:08:926,DNF,DNF,0
+7,Berlin,Germany,Tempelhof Airport Street Circuit,4/22/2023,15:03 - 16:30,20˚C,2.355KM,40,3,10,22,Antonio Felix Da Costa,31,#13,Spanish,Tag Heuer Porsche Formula E Team,Porsche 99X Electric Gen3,19,1:08:393,DNF,DNF,0
+8,Berlin,Germany,Tempelhof Airport Street Circuit,4/23/2023,15:03 - 16:30,14˚C,2.355KM,40,0,10,1,Nick Cassidy,28,#37,New Zealander,Envision Racing,Jaguar I-Type 6,8,1:06:978 ,46:34:509 ,0,25
+8,Berlin,Germany,Tempelhof Airport Street Circuit,4/23/2023,15:03 - 16:30,14˚C,2.355KM,40,0,10,2,Jake Dennis,28,#27,British,Avalanche Andretti Formula E,Porsche 99X Electric Gen3,7,1:06:944 ,46:34:951 ,+ 0:00:442 ,18
+8,Berlin,Germany,Tempelhof Airport Street Circuit,4/23/2023,15:03 - 16:30,14˚C,2.355KM,40,0,10,3,Jean-Eric Vergne,33,#25,French,DS Penske,DS E-TENSE FE23,4,1:07:081 ,46:35:801 ,+ 0:01:292 ,15
+8,Berlin,Germany,Tempelhof Airport Street Circuit,4/23/2023,15:03 - 16:30,14˚C,2.355KM,40,0,10,4,Mitch Evans,29,#9,New Zealander,Jaguar TCS Racing,Jaguar I-Type 6,5,1:06:920 ,46:36:278 ,+ 0:01:769 ,12
+8,Berlin,Germany,Tempelhof Airport Street Circuit,4/23/2023,15:03 - 16:30,14˚C,2.355KM,40,0,10,5,Antonio Felix Da Costa,31,#13,Spanish,Tag Heuer Porsche Formula E Team,Porsche 99X Electric Gen3,10,1:07:030 ,46:36:969 ,+ 0:02:460 ,10
+8,Berlin,Germany,Tempelhof Airport Street Circuit,4/23/2023,15:03 - 16:30,14˚C,2.355KM,40,0,10,6,Maximilian Gunther,25,#7,German,Maserati MSG Racing,Maserati Tipo Folgore,21,1:06:911 ,46:37:490 ,+ 0:02:981 ,9
+8,Berlin,Germany,Tempelhof Airport Street Circuit,4/23/2023,15:03 - 16:30,14˚C,2.355KM,40,0,10,7,Pascal Wehrlein,28,#94,German,Tag Heuer Porsche Formula E Team,Porsche 99X Electric Gen3,6,1:07:117 ,46:38:054 ,+ 0:03:545 ,6
+8,Berlin,Germany,Tempelhof Airport Street Circuit,4/23/2023,15:03 - 16:30,14˚C,2.355KM,40,0,10,8,Stoffel Vandoorne,31,#1,Belgian,DS Penske,DS E-TENSE FE23,9,1:07:173 ,46:39:360 ,+ 0:04:851 ,4
+8,Berlin,Germany,Tempelhof Airport Street Circuit,4/23/2023,15:03 - 16:30,14˚C,2.355KM,40,0,10,9,Nico Mueller,31,#51,Swiss,ABT Cupra Formula E Team,Mahindra M9Electro,2,1:07:426 ,46:41:121 ,+ 0:06:612 ,2
+8,Berlin,Germany,Tempelhof Airport Street Circuit,4/23/2023,15:03 - 16:30,14˚C,2.355KM,40,0,10,10,Dan Ticktum,24,#33,British,NIO 333 Racing,NIO 333 ER9,18,1:07:482 ,46:42:331 ,+ 0:07:822 ,1
+8,Berlin,Germany,Tempelhof Airport Street Circuit,4/23/2023,15:03 - 16:30,14˚C,2.355KM,40,0,10,11,Sacha Fenestraz,23,#23,French,Nissan Formula E Team,Nissan e-4ORCE 04,20,1:07:538 ,46:43:970 ,+ 0:09:461 ,0
+8,Berlin,Germany,Tempelhof Airport Street Circuit,4/23/2023,15:03 - 16:30,14˚C,2.355KM,40,0,10,12,Lucas Di Grassi,38,#11,Brazilian,Mahindra Racing,Mahindra M9Electro,13,1:07:484 ,46:43:971 ,+ 0:09:462 ,0
+8,Berlin,Germany,Tempelhof Airport Street Circuit,4/23/2023,15:03 - 16:30,14˚C,2.355KM,40,0,10,13,Rene Rast,36,#58,German,NEOM McLaren Formula E Team,Nissan e-4ORCE 04,17,1:07:244 ,46:44:187 ,+ 0:09:678 ,0
+8,Berlin,Germany,Tempelhof Airport Street Circuit,4/23/2023,15:03 - 16:30,14˚C,2.355KM,40,0,10,14,Oliver Rowland,30,#8,British,Mahindra Racing,Mahindra M9Electro,12,1:07:420 ,46:46:289 ,+ 0:11:780 ,0
+8,Berlin,Germany,Tempelhof Airport Street Circuit,4/23/2023,15:03 - 16:30,14˚C,2.355KM,40,0,10,15,Sergio Sette Camara,25,#3,Brazilian,NIO 333 Racing,NIO 333 ER9,19,1:07:189 ,46:48:196 ,+ 0:13:687 ,0
+8,Berlin,Germany,Tempelhof Airport Street Circuit,4/23/2023,15:03 - 16:30,14˚C,2.355KM,40,0,10,16,Norman Nato,30,#17,French,Nissan Formula E Team,Nissan e-4ORCE 04,22,1:07:436 ,46:48:258 ,+ 0:13:749 ,0
+8,Berlin,Germany,Tempelhof Airport Street Circuit,4/23/2023,15:03 - 16:30,14˚C,2.355KM,40,0,10,17,Robin Frijns,31,#4,Dutch,ABT Cupra Formula E Team,Mahindra M9Electro,1,1:07:722 ,46:57:446 ,+ 0:22:937 ,3
+8,Berlin,Germany,Tempelhof Airport Street Circuit,4/23/2023,15:03 - 16:30,14˚C,2.355KM,40,0,10,18,Jake Hughes,29,#5,British,NEOM McLaren Formula E Team,Nissan e-4ORCE 04,14,1:08:731 ,47:04:089 ,+ 0:29:580 ,0
+8,Berlin,Germany,Tempelhof Airport Street Circuit,4/23/2023,15:03 - 16:30,14˚C,2.355KM,40,0,10,19,Sam Bird,36,#10,British,Jaguar TCS Racing,Jaguar I-Type 6,11,1:07:649 ,47:08:890 ,+ 0:34:381 ,0
+8,Berlin,Germany,Tempelhof Airport Street Circuit,4/23/2023,15:03 - 16:30,14˚C,2.355KM,40,0,10,20,Sebastian Buemi,34,#16,Swiss,Envision Racing,Jaguar I-Type 6,3,1:06:903 ,47:38:041 ,+ 1:03:532 ,0
+8,Berlin,Germany,Tempelhof Airport Street Circuit,4/23/2023,15:03 - 16:30,14˚C,2.355KM,40,0,10,21,Andre Lotterer,41,#36,German,Avalanche Andretti Formula E,Porsche 99X Electric Gen3,15,1:06:915 ,47:38:611 ,+ 1:04:102 ,0
+8,Berlin,Germany,Tempelhof Airport Street Circuit,4/23/2023,15:03 - 16:30,14˚C,2.355KM,40,0,10,22,Edoardo Mortara,36,#48,Swiss,Maserati MSG Racing,Maserati Tipo Folgore,16,1:07:041 ,DNF,DNF,0
+9,Monaco,Monaco,Circuit de Monaco,5/6/2023,15:03 - 16:30,20˚C,3.337KM,29,0,19,1,Nick Cassidy,28,#37,New Zealander,Envision Racing,Jaguar I-Type 6,9,1:31:498 ,50:23:842 ,0,25
+9,Monaco,Monaco,Circuit de Monaco,5/6/2023,15:03 - 16:30,20˚C,3.337KM,29,0,19,2,Mitch Evans,29,#9,New Zealander,Jaguar TCS Racing,Jaguar I-Type 6,6,1:31:471 ,50:24:232 ,+ 0:00:390 ,18
+9,Monaco,Monaco,Circuit de Monaco,5/6/2023,15:03 - 16:30,20˚C,3.337KM,29,0,19,3,Jake Dennis,28,#27,British,Avalanche Andretti Formula E,Porsche 99X Electric Gen3,11,1:31:119 ,50:24:859 ,+ 0:01:017 ,16
+9,Monaco,Monaco,Circuit de Monaco,5/6/2023,15:03 - 16:30,20˚C,3.337KM,29,0,19,4,Sacha Fenestraz,23,#23,French,Nissan Formula E Team,Nissan e-4ORCE 04,2,1:31:599 ,50:25:990 ,+ 0:02:148 ,12
+9,Monaco,Monaco,Circuit de Monaco,5/6/2023,15:03 - 16:30,20˚C,3.337KM,29,0,19,5,Jake Hughes,29,#5,British,NEOM McLaren Formula E Team,Nissan e-4ORCE 04,1,1:32:110 ,50:26:630 ,+ 0:02:788 ,13
+9,Monaco,Monaco,Circuit de Monaco,5/6/2023,15:03 - 16:30,20˚C,3.337KM,29,0,19,6,Dan Ticktum,24,#33,British,NIO 333 Racing,NIO 333 ER9,5,1:32:066 ,50:27:210 ,+ 0:03:368 ,8
+9,Monaco,Monaco,Circuit de Monaco,5/6/2023,15:03 - 16:30,20˚C,3.337KM,29,0,19,7,Jean-Eric Vergne,33,#25,French,DS Penske,DS E-TENSE FE23,22,1:32:210 ,50:28:216 ,+ 0:04:374 ,6
+9,Monaco,Monaco,Circuit de Monaco,5/6/2023,15:03 - 16:30,20˚C,3.337KM,29,0,19,8,Sebastian Buemi,34,#16,Swiss,Envision Racing,Jaguar I-Type 6,15,1:31:870 ,50:28:625 ,+ 0:04:783 ,4
+9,Monaco,Monaco,Circuit de Monaco,5/6/2023,15:03 - 16:30,20˚C,3.337KM,29,0,19,9,Stoffel Vandoorne,31,#1,Belgian,DS Penske,DS E-TENSE FE23,21,1:32:988 ,50:29:236 ,+ 0:05:394 ,2
+9,Monaco,Monaco,Circuit de Monaco,5/6/2023,15:03 - 16:30,20˚C,3.337KM,29,0,19,10,Pascal Wehrlein,28,#94,German,Tag Heuer Porsche Formula E Team,Porsche 99X Electric Gen3,12,1:33:099 ,50:30:547 ,+ 0:06:705 ,1
+9,Monaco,Monaco,Circuit de Monaco,5/6/2023,15:03 - 16:30,20˚C,3.337KM,29,0,19,11,Edoardo Mortara,36,#48,Swiss,Maserati MSG Racing,Maserati Tipo Folgore,7,1:32:513 ,50:31:466 ,+ 0:07:624 ,0
+9,Monaco,Monaco,Circuit de Monaco,5/6/2023,15:03 - 16:30,20˚C,3.337KM,29,0,19,12,Lucas Di Grassi,38,#11,Brazilian,Mahindra Racing,Mahindra M9Electro,20,1:32:677 ,50:32:418 ,+ 0:08:576 ,0
+9,Monaco,Monaco,Circuit de Monaco,5/6/2023,15:03 - 16:30,20˚C,3.337KM,29,0,19,13,Robin Frijns,31,#4,Dutch,ABT Cupra Formula E Team,Mahindra M9Electro,18,1:32:611 ,50:33:462 ,+ 0:09:620 ,0
+9,Monaco,Monaco,Circuit de Monaco,5/6/2023,15:03 - 16:30,20˚C,3.337KM,29,0,19,14,Sergio Sette Camara,25,#3,Brazilian,NIO 333 Racing,NIO 333 ER9,8,1:32:620 ,50:34:526 ,+ 0:10:684 ,0
+9,Monaco,Monaco,Circuit de Monaco,5/6/2023,15:03 - 16:30,20˚C,3.337KM,29,0,19,15,Antonio Felix Da Costa,31,#13,Spanish,Tag Heuer Porsche Formula E Team,Porsche 99X Electric Gen3,19,1:32:610 ,50:34:983 ,+ 0:11:141 ,0
+9,Monaco,Monaco,Circuit de Monaco,5/6/2023,15:03 - 16:30,20˚C,3.337KM,29,0,19,16,Sam Bird,36,#10,British,Jaguar TCS Racing,Jaguar I-Type 6,16,1:32:945 ,50:35:311 ,+ 0:11:469 ,0
+9,Monaco,Monaco,Circuit de Monaco,5/6/2023,15:03 - 16:30,20˚C,3.337KM,29,0,19,17,Rene Rast,36,#58,German,NEOM McLaren Formula E Team,Nissan e-4ORCE 04,14,1:32:781 ,50:36:137 ,+ 0:12:295 ,0
+9,Monaco,Monaco,Circuit de Monaco,5/6/2023,15:03 - 16:30,20˚C,3.337KM,29,0,19,18,Norman Nato,30,#17,French,Nissan Formula E Team,Nissan e-4ORCE 04,3,1:33:031 ,50:37:265 ,+ 0:13:423 ,0
+9,Monaco,Monaco,Circuit de Monaco,5/6/2023,15:03 - 16:30,20˚C,3.337KM,29,0,19,19,Oliver Rowland,30,#8,British,Mahindra Racing,Mahindra M9Electro,13,1:34:243 ,DNF,DNF,0
+9,Monaco,Monaco,Circuit de Monaco,5/6/2023,15:03 - 16:30,20˚C,3.337KM,29,0,19,20,Maximilian Gunther,25,#7,German,Maserati MSG Racing,Maserati Tipo Folgore,4,1:33:906 ,DNF,DNF,0
+9,Monaco,Monaco,Circuit de Monaco,5/6/2023,15:03 - 16:30,20˚C,3.337KM,29,0,19,21,Nico Mueller,31,#51,Swiss,ABT Cupra Formula E Team,Mahindra M9Electro,17,1:32:747 ,DNF,DNF,0
+9,Monaco,Monaco,Circuit de Monaco,5/6/2023,15:03 - 16:30,20˚C,3.337KM,29,0,19,22,Andre Lotterer,41,#36,German,Avalanche Andretti Formula E,Porsche 99X Electric Gen3,10,N/A,DNF,DNF,0
+10,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/3/2023,15:03 - 16:30,33˚C,2.370KM,36,0,18,1,Pascal Wehrlein,28,#94,German,Tag Heuer Porsche Formula E Team,Porsche 99X Electric Gen3,3,1:09:813,42:21:995,0,25
+10,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/3/2023,15:03 - 16:30,33˚C,2.370KM,36,0,18,2,Jake Dennis,28,#27,British,Avalanche Andretti Formula E,Porsche 99X Electric Gen3,2,1:09:824,42:22:472,+ 0:00:477,18
+10,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/3/2023,15:03 - 16:30,33˚C,2.370KM,36,0,18,3,Maximilian Gunther,25,#7,German,Maserati MSG Racing,Maserati Tipo Folgore,1,1:09:964,42:23:408,+ 0:01:413,18
+10,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/3/2023,15:03 - 16:30,33˚C,2.370KM,36,0,18,4,Stoffel Vandoorne,31,#1,Belgian,DS Penske,DS E-TENSE FE23,5,1:10:020,42:25:866,+ 0:03:871,12
+10,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/3/2023,15:03 - 16:30,33˚C,2.370KM,36,0,18,5,Jean-Eric Vergne,33,#25,French,DS Penske,DS E-TENSE FE23,4,1:10:048,42:26:981,+ 0:04:986,10
+10,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/3/2023,15:03 - 16:30,33˚C,2.370KM,36,0,18,6,Edoardo Mortara,36,#48,Swiss,Maserati MSG Racing,Maserati Tipo Folgore,6,1:10:088,42:27:582,+ 0:05:587,8
+10,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/3/2023,15:03 - 16:30,33˚C,2.370KM,36,0,18,7,Nick Cassidy,28,#37,New Zealander,Envision Racing,Jaguar I-Type 6,10,1:09:797,42:27:977,+ 0:05:982,7
+10,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/3/2023,15:03 - 16:30,33˚C,2.370KM,36,0,18,8,Antonio Felix Da Costa,31,#13,Spanish,Tag Heuer Porsche Formula E Team,Porsche 99X Electric Gen3,15,1:10:063,42:42:131,+ 0:20:136,4
+10,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/3/2023,15:03 - 16:30,33˚C,2.370KM,36,0,18,9,Robin Frijns,31,#4,Dutch,ABT Cupra Formula E Team,Mahindra M9Electro,7,1:10:397,42:43:682,+ 0:21:687,2
+10,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/3/2023,15:03 - 16:30,33˚C,2.370KM,36,0,18,10,Jake Hughes,29,#5,British,NEOM McLaren Formula E Team,Nissan e-4ORCE 04,20,1:10:125,42:45:351,+ 0:23:356,1
+10,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/3/2023,15:03 - 16:30,33˚C,2.370KM,36,0,18,11,Nico Mueller,31,#51,Swiss,ABT Cupra Formula E Team,Mahindra M9Electro,9,1:10:271,42:45:787,+ 0:23:792,0
+10,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/3/2023,15:03 - 16:30,33˚C,2.370KM,36,0,18,12,Norman Nato,30,#17,French,Nissan Formula E Team,Nissan e-4ORCE 04,17,1:10:161,42:47:157,+ 0:25:162,0
+10,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/3/2023,15:03 - 16:30,33˚C,2.370KM,36,0,18,13,Dan Ticktum,24,#33,British,NIO 333 Racing,NIO 333 ER9,14,1:10:410,42:50:819,+ 0:28:824,0
+10,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/3/2023,15:03 - 16:30,33˚C,2.370KM,36,0,18,14,Lucas Di Grassi,38,#11,Brazilian,Mahindra Racing,Mahindra M9Electro,21,1:10:423,42:51:490,+ 0:29:495,0
+10,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/3/2023,15:03 - 16:30,33˚C,2.370KM,36,0,18,15,Rene Rast,36,#58,German,NEOM McLaren Formula E Team,Nissan e-4ORCE 04,8,1:10:008,42:51:997,+ 0:30:002,0
+10,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/3/2023,15:03 - 16:30,33˚C,2.370KM,36,0,18,16,David Beckmann,23,#36,German,Avalanche Andretti Formula E,Porsche 99X Electric Gen3,19,1:10:344,42:53:074,+ 0:31:079,0
+10,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/3/2023,15:03 - 16:30,33˚C,2.370KM,36,0,18,17,Sergio Sette Camara,25,#3,Brazilian,NIO 333 Racing,NIO 333 ER9,18,1:10:341,42:54:097,+ 0:32:102,0
+10,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/3/2023,15:03 - 16:30,33˚C,2.370KM,36,0,18,18,Roberto Merhi,32,#8,Spanish,Mahindra Racing,Mahindra M9Electro,22,1:10:707,43:08:657,+ 0:46:662,0
+10,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/3/2023,15:03 - 16:30,33˚C,2.370KM,36,0,18,19,Sacha Fenestraz,23,#23,French,Nissan Formula E Team,Nissan e-4ORCE 04,12,1:10:314,43:10:817,+ 0:48:822,0
+10,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/3/2023,15:03 - 16:30,33˚C,2.370KM,36,0,18,20,Sam Bird,36,#10,British,Jaguar TCS Racing,Jaguar I-Type 6,16,1:09:914,43:36:067,+ 1:14:072,0
+10,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/3/2023,15:03 - 16:30,33˚C,2.370KM,36,0,18,21,Sebastian Buemi,34,#16,Swiss,Envision Racing,Jaguar I-Type 6,13,1:09:755,43:40:076,+ 1:18:081,0
+10,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/3/2023,15:03 - 16:30,33˚C,2.370KM,36,0,18,22,Mitch Evans,29,#9,New Zealander,Jaguar TCS Racing,Jaguar I-Type 6,11,1:10:153,DNF,DNF,0
+11,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/4/2023,15:03 - 16:30,33˚C,2.370KM,38,0,18,1,Maximilian Gunther,25,#7,German,Maserati MSG Racing,Maserati Tipo Folgore,1,1:09:371,44:57:285,0,28
+11,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/4/2023,15:03 - 16:30,33˚C,2.370KM,38,0,18,2,Jake Dennis,28,#27,British,Avalanche Andretti Formula E,Porsche 99X Electric Gen3,2,1:09:171,45:00:107,+ 0:02:822,19
+11,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/4/2023,15:03 - 16:30,33˚C,2.370KM,38,0,18,3,Mitch Evans,29,#9,New Zealander,Jaguar TCS Racing,Jaguar I-Type 6,3,1:10:137,45:15:783,+ 0:18:498,15
+11,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/4/2023,15:03 - 16:30,33˚C,2.370KM,38,0,18,4,Sacha Fenestraz,23,#23,French,Nissan Formula E Team,Nissan e-4ORCE 04,7,1:09:918,45:16:592,+ 0:19:307,12
+11,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/4/2023,15:03 - 16:30,33˚C,2.370KM,38,0,18,5,Norman Nato,30,#17,French,Nissan Formula E Team,Nissan e-4ORCE 04,12,1:09:937,45:17:209,+ 0:19:924,10
+11,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/4/2023,15:03 - 16:30,33˚C,2.370KM,38,0,18,6,Pascal Wehrlein,28,#94,German,Tag Heuer Porsche Formula E Team,Porsche 99X Electric Gen3,6,1:10:169,45:17:393,+ 0:20:108,8
+11,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/4/2023,15:03 - 16:30,33˚C,2.370KM,38,0,18,7,Antonio Felix Da Costa,31,#13,Spanish,Tag Heuer Porsche Formula E Team,Porsche 99X Electric Gen3,11,1:09:996,45:17:806,+ 0:20:521,6
+11,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/4/2023,15:03 - 16:30,33˚C,2.370KM,38,0,18,8,Edoardo Mortara,36,#48,Swiss,Maserati MSG Racing,Maserati Tipo Folgore,4,1:10:171,45:18:281,+ 0:20:996,4
+11,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/4/2023,15:03 - 16:30,33˚C,2.370KM,38,0,18,9,Stoffel Vandoorne,31,#1,Belgian,DS Penske,DS E-TENSE FE23,5,1:10:133,45:23:915,+ 0:26:630,2
+11,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/4/2023,15:03 - 16:30,33˚C,2.370KM,38,0,18,10,Sebastian Buemi,34,#16,Swiss,Envision Racing,Jaguar I-Type 6,13,1:10:275,45:24:558,+ 0:27:273,1
+11,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/4/2023,15:03 - 16:30,33˚C,2.370KM,38,0,18,11,Dan Ticktum,24,#33,British,NIO 333 Racing,NIO 333 ER9,20,1:09:880,45:25:899,+ 0:28:614,0
+11,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/4/2023,15:03 - 16:30,33˚C,2.370KM,38,0,18,12,Nico Mueller,31,#51,Swiss,ABT Cupra Formula E Team,Mahindra M9Electro,17,1:10:405,45:26:072,+ 0:28:787,0
+11,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/4/2023,15:03 - 16:30,33˚C,2.370KM,38,0,18,13,Robin Frijns,31,#4,Dutch,ABT Cupra Formula E Team,Mahindra M9Electro,22,1:10:500,45:26:410,+ 0:29:125,0
+11,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/4/2023,15:03 - 16:30,33˚C,2.370KM,38,0,18,14,Lucas Di Grassi,38,#11,Brazilian,Mahindra Racing,Mahindra M9Electro,19,1:10:196,45:26:815,+ 0:29:530,0
+11,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/4/2023,15:03 - 16:30,33˚C,2.370KM,38,0,18,15,Rene Rast,36,#58,German,NEOM McLaren Formula E Team,Nissan e-4ORCE 04,16,1:10:595,45:27:955,+ 0:30:670,0
+11,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/4/2023,15:03 - 16:30,33˚C,2.370KM,38,0,18,16,Jean-Eric Vergne,33,#25,French,DS Penske,DS E-TENSE FE23,9,1:09:364,45:53:883,+ 0:56:598,0
+11,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/4/2023,15:03 - 16:30,33˚C,2.370KM,38,0,18,17,Roberto Merhi,32,#8,Spanish,Mahindra Racing,Mahindra M9Electro,21,1:10:385,46:03:930,+ 1:06:645,0
+11,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/4/2023,15:03 - 16:30,33˚C,2.370KM,38,0,18,18,Nick Cassidy,28,#37,New Zealander,Envision Racing,Jaguar I-Type 6,10,1:09:585,46:04:164,+ 1:06:879,0
+11,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/4/2023,15:03 - 16:30,33˚C,2.370KM,38,0,18,19,Jake Hughes,29,#5,British,NEOM McLaren Formula E Team,Nissan e-4ORCE 04,8,1:10:790,DNF,+,0
+11,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/4/2023,15:03 - 16:30,33˚C,2.370KM,38,0,18,20,David Beckmann,23,#36,German,Avalanche Andretti Formula E,Porsche 99X Electric Gen3,18,1:11:072,DNF,+,0
+11,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/4/2023,15:03 - 16:30,33˚C,2.370KM,38,0,18,21,Sergio Sette Camara,25,#3,Brazilian,NIO 333 Racing,NIO 333 ER9,15,DNS,DNS,+,0
+11,Jakarta,Indonesia,AGI Jakarta International E-Prix Circuit,6/4/2023,15:03 - 16:30,33˚C,2.370KM,38,0,18,22,Sam Bird,36,#10,British,Jaguar TCS Racing,Jaguar I-Type 6,14,DNS,DNS,+,0
+12,Portland,USA,Portland International Raceway,6/24/2023,17:03 - 18:30,26˚C,3.221KM,28,4,12,1,Nick Cassidy,28,#37,New Zealander,Envision Racing,Jaguar I-Type 6,10,1:11:731,50:40:629,0,25
+12,Portland,USA,Portland International Raceway,6/24/2023,17:03 - 18:30,26˚C,3.221KM,28,4,12,2,Jake Dennis,28,#27,British,Avalanche Andretti Formula E,Porsche 99X Electric Gen3,1,1:11:401,50:40:923,+ 0:00:294,21
+12,Portland,USA,Portland International Raceway,6/24/2023,17:03 - 18:30,26˚C,3.221KM,28,4,12,3,Antonio Felix Da Costa,31,#13,Spanish,Tag Heuer Porsche Formula E Team,Porsche 99X Electric Gen3,7,1:11:839,50:41:769,+ 0:01:140,15
+12,Portland,USA,Portland International Raceway,6/24/2023,17:03 - 18:30,26˚C,3.221KM,28,4,12,4,Mitch Evans,29,#9,New Zealander,Jaguar TCS Racing,Jaguar I-Type 6,20,1:11:216,50:42:387,+ 0:01:758,13
+12,Portland,USA,Portland International Raceway,6/24/2023,17:03 - 18:30,26˚C,3.221KM,28,4,12,5,Sebastian Buemi,34,#16,Swiss,Envision Racing,Jaguar I-Type 6,16,1:11:533,50:42:849,+ 0:02:220,10
+12,Portland,USA,Portland International Raceway,6/24/2023,17:03 - 18:30,26˚C,3.221KM,28,4,12,6,Maximilian Gunther,25,#7,German,Maserati MSG Racing,Maserati Tipo Folgore,5,1:11:863,50:42:936,+ 0:02:307,8
+12,Portland,USA,Portland International Raceway,6/24/2023,17:03 - 18:30,26˚C,3.221KM,28,4,12,7,Lucas Di Grassi,38,#11,Brazilian,Mahindra Racing,Mahindra M9Electro,13,1:11:496,50:43:611,+ 0:02:982,6
+12,Portland,USA,Portland International Raceway,6/24/2023,17:03 - 18:30,26˚C,3.221KM,28,4,12,8,Pascal Wehrlein,28,#94,German,Tag Heuer Porsche Formula E Team,Porsche 99X Electric Gen3,18,1:11:774,50:44:313,+ 0:03:684,4
+12,Portland,USA,Portland International Raceway,6/24/2023,17:03 - 18:30,26˚C,3.221KM,28,4,12,9,Norman Nato,30,#17,French,Nissan Formula E Team,Nissan e-4ORCE 04,3,1:11:774,50:44:590,+ 0:03:961,2
+12,Portland,USA,Portland International Raceway,6/24/2023,17:03 - 18:30,26˚C,3.221KM,28,4,12,10,Robin Frijns,31,#4,Dutch,ABT Cupra Formula E Team,Mahindra M9Electro,9,1:11:819,50:44:929,+ 0:04:300,1
+12,Portland,USA,Portland International Raceway,6/24/2023,17:03 - 18:30,26˚C,3.221KM,28,4,12,11,Jean-Eric Vergne,33,#25,French,DS Penske,DS E-TENSE FE23,21,1:11:876,50:45:347,+ 0:04:718,0
+12,Portland,USA,Portland International Raceway,6/24/2023,17:03 - 18:30,26˚C,3.221KM,28,4,12,12,Stoffel Vandoorne,31,#1,Belgian,DS Penske,DS E-TENSE FE23,22,1:11:791,50:45:611,+ 0:04:982,0
+12,Portland,USA,Portland International Raceway,6/24/2023,17:03 - 18:30,26˚C,3.221KM,28,4,12,13,Dan Ticktum,24,#33,British,NIO 333 Racing,NIO 333 ER9,14,1:11:746,50:46:099,+ 0:05:470,0
+12,Portland,USA,Portland International Raceway,6/24/2023,17:03 - 18:30,26˚C,3.221KM,28,4,12,14,Rene Rast,36,#58,German,NEOM McLaren Formula E Team,Nissan e-4ORCE 04,4,1:11:562,50:46:744,+ 0:06:115,0
+12,Portland,USA,Portland International Raceway,6/24/2023,17:03 - 18:30,26˚C,3.221KM,28,4,12,15,Sacha Fenestraz,23,#23,French,Nissan Formula E Team,Nissan e-4ORCE 04,2,1:11:495,50:47:328,+ 0:06:699,0
+12,Portland,USA,Portland International Raceway,6/24/2023,17:03 - 18:30,26˚C,3.221KM,28,4,12,16,Sergio Sette Camara,25,#3,Brazilian,NIO 333 Racing,NIO 333 ER9,19,1:12:118,50:47:796,+ 0:07:167,0
+12,Portland,USA,Portland International Raceway,6/24/2023,17:03 - 18:30,26˚C,3.221KM,28,4,12,17,Sam Bird,36,#10,British,Jaguar TCS Racing,Jaguar I-Type 6,15,1:11:990,50:48:267,+ 0:07:638,0
+12,Portland,USA,Portland International Raceway,6/24/2023,17:03 - 18:30,26˚C,3.221KM,28,4,12,18,Jake Hughes,29,#5,British,NEOM McLaren Formula E Team,Nissan e-4ORCE 04,6,1:12:141,50:53:606,+ 0:12:977,0
+12,Portland,USA,Portland International Raceway,6/24/2023,17:03 - 18:30,26˚C,3.221KM,28,4,12,19,Andre Lotterer,41,#36,German,Avalanche Andretti Formula E,Porsche 99X Electric Gen3,8,1:12:183,50:56:680,+ 0:16:051,0
+12,Portland,USA,Portland International Raceway,6/24/2023,17:03 - 18:30,26˚C,3.221KM,28,4,12,20,Roberto Merhi,32,#8,Spanish,Mahindra Racing,Mahindra M9Electro,17,1:19:539,DNF,+,0
+12,Portland,USA,Portland International Raceway,6/24/2023,17:03 - 18:30,26˚C,3.221KM,28,4,12,21,Edoardo Mortara,36,#48,Swiss,Maserati MSG Racing,Maserati Tipo Folgore,11,1:11:656,DNF,+,0
+12,Portland,USA,Portland International Raceway,6/24/2023,17:03 - 18:30,26˚C,3.221KM,28,4,12,22,Nico Mueller,31,#51,Swiss,ABT Cupra Formula E Team,Mahindra M9Electro,12,1:17:592,DNF,+,0
+13,Rome,Italy,Circuito Cittadino dell'EUR,7/15/2023,15:03 - 16:30,33˚C,3.385KM,25,2,19,1,Mitch Evans,29,#9,New Zealander,Jaguar TCS Racing,Jaguar I-Type 6,1,1:41:694,37:02:976,0,29
+13,Rome,Italy,Circuito Cittadino dell'EUR,7/15/2023,15:03 - 16:30,33˚C,3.385KM,25,2,19,2,Nick Cassidy,28,#37,New Zealander,Envision Racing,Jaguar I-Type 6,9,1:42:362,37:04:615,+ 0:01:639,18
+13,Rome,Italy,Circuito Cittadino dell'EUR,7/15/2023,15:03 - 16:30,33˚C,3.385KM,25,2,19,3,Maximilian Gunther,25,#7,German,Maserati MSG Racing,Maserati Tipo Folgore,8,1:42:826,37:12:102,+ 0:09:126,15
+13,Rome,Italy,Circuito Cittadino dell'EUR,7/15/2023,15:03 - 16:30,33˚C,3.385KM,25,2,19,4,Jake Dennis,28,#27,British,Avalanche Andretti Formula E,Porsche 99X Electric Gen3,7,1:41:736,37:23:986,+ 0:21:010,12
+13,Rome,Italy,Circuito Cittadino dell'EUR,7/15/2023,15:03 - 16:30,33˚C,3.385KM,25,2,19,5,Jean-Eric Vergne,33,#25,French,DS Penske,DS E-TENSE FE23,16,1:43:175,37:24:458,+ 0:21:482,10
+13,Rome,Italy,Circuito Cittadino dell'EUR,7/15/2023,15:03 - 16:30,33˚C,3.385KM,25,2,19,6,Nico Mueller,31,#51,Swiss,ABT Cupra Formula E Team,Mahindra M9Electro,14,1:43:221,37:24:834,+ 0:21:858,8
+13,Rome,Italy,Circuito Cittadino dell'EUR,7/15/2023,15:03 - 16:30,33˚C,3.385KM,25,2,19,7,Norman Nato,30,#17,French,Nissan Formula E Team,Nissan e-4ORCE 04,11,1:43:244,37:27:047,+ 0:24:071,6
+13,Rome,Italy,Circuito Cittadino dell'EUR,7/15/2023,15:03 - 16:30,33˚C,3.385KM,25,2,19,8,Sergio Sette Camara,25,#3,Brazilian,NIO 333 Racing,NIO 333 ER9,21,1:43:007,37:28:403,+ 0:25:427,4
+13,Rome,Italy,Circuito Cittadino dell'EUR,7/15/2023,15:03 - 16:30,33˚C,3.385KM,25,2,19,9,Pascal Wehrlein,28,#94,German,Tag Heuer Porsche Formula E Team,Porsche 99X Electric Gen3,10,1:42:894,37:31:558,+ 0:28:582,2
+13,Rome,Italy,Circuito Cittadino dell'EUR,7/15/2023,15:03 - 16:30,33˚C,3.385KM,25,2,19,10,Sacha Fenestraz,23,#23,French,Nissan Formula E Team,Nissan e-4ORCE 04,3,1:43:189,37:33:318,+ 0:30:342,1
+13,Rome,Italy,Circuito Cittadino dell'EUR,7/15/2023,15:03 - 16:30,33˚C,3.385KM,25,2,19,11,Stoffel Vandoorne,31,#1,Belgian,DS Penske,DS E-TENSE FE23,12,1:42:534,37:47:937,+ 0:44:961,0
+13,Rome,Italy,Circuito Cittadino dell'EUR,7/15/2023,15:03 - 16:30,33˚C,3.385KM,25,2,19,12,Roberto Merhi,32,#8,Spanish,Mahindra Racing,Mahindra M9Electro,19,1:43:734,38:08:024,+ 1:05:048,0
+13,Rome,Italy,Circuito Cittadino dell'EUR,7/15/2023,15:03 - 16:30,33˚C,3.385KM,25,2,19,13,Dan Ticktum,24,#33,British,NIO 333 Racing,NIO 333 ER9,18,1:43:445,38:37:776,+ 1:34:800,0
+13,Rome,Italy,Circuito Cittadino dell'EUR,7/15/2023,15:03 - 16:30,33˚C,3.385KM,25,2,19,14,Jake Hughes,29,#5,British,NEOM McLaren Formula E Team,Nissan e-4ORCE 04,DNS,dns,DNS,DNS,0
+13,Rome,Italy,Circuito Cittadino dell'EUR,7/15/2023,15:03 - 16:30,33˚C,3.385KM,25,2,19,15,Lucas Di Grassi,38,#11,Brazilian,Mahindra Racing,Mahindra M9Electro,15,1:43:016,DNF,DNF,0
+13,Rome,Italy,Circuito Cittadino dell'EUR,7/15/2023,15:03 - 16:30,33˚C,3.385KM,25,2,19,16,Edoardo Mortara,36,#48,Swiss,Maserati MSG Racing,Maserati Tipo Folgore,6,1:44:275,DNF,DNF,0
+13,Rome,Italy,Circuito Cittadino dell'EUR,7/15/2023,15:03 - 16:30,33˚C,3.385KM,25,2,19,17,Robin Frijns,31,#4,Dutch,ABT Cupra Formula E Team,Mahindra M9Electro,17,1:43:882,DNF,DNF,0
+13,Rome,Italy,Circuito Cittadino dell'EUR,7/15/2023,15:03 - 16:30,33˚C,3.385KM,25,2,19,18,Sebastian Buemi,34,#16,Swiss,Envision Racing,Jaguar I-Type 6,4,1:43:835,DNF,DNF,0
+13,Rome,Italy,Circuito Cittadino dell'EUR,7/15/2023,15:03 - 16:30,33˚C,3.385KM,25,2,19,19,Sam Bird,36,#10,British,Jaguar TCS Racing,Jaguar I-Type 6,2,1:44:705,DNF,DNF,0
+13,Rome,Italy,Circuito Cittadino dell'EUR,7/15/2023,15:03 - 16:30,33˚C,3.385KM,25,2,19,20,Andre Lotterer,41,#36,German,Avalanche Andretti Formula E,Porsche 99X Electric Gen3,20,1:43:386,DNF,DNF,0
+13,Rome,Italy,Circuito Cittadino dell'EUR,7/15/2023,15:03 - 16:30,33˚C,3.385KM,25,2,19,21,Rene Rast,36,#58,German,NEOM McLaren Formula E Team,Nissan e-4ORCE 04,5,1:43:131,DNF,DNF,0
+13,Rome,Italy,Circuito Cittadino dell'EUR,7/15/2023,15:03 - 16:30,33˚C,3.385KM,25,2,19,22,Antonio Felix Da Costa,31,#13,Spanish,Tag Heuer Porsche Formula E Team,Porsche 99X Electric Gen3,13,1:43:683,DNF,DNF,0
+14,Rome,Italy,Circuito Cittadino dell'EUR,7/16/2023,15:03 - 16:30,36˚C,3.385KM,24,0,19,1,Jake Dennis,28,#27,British,Avalanche Andretti Formula E,Porsche 99X Electric Gen3,1,1:40:482,45:04:323,0,29
+14,Rome,Italy,Circuito Cittadino dell'EUR,7/16/2023,15:03 - 16:30,36˚C,3.385KM,24,0,19,2,Norman Nato,30,#17,French,Nissan Formula E Team,Nissan e-4ORCE 04,3,1:41:784,45:07:428,+ 0:03:105,18
+14,Rome,Italy,Circuito Cittadino dell'EUR,7/16/2023,15:03 - 16:30,36˚C,3.385KM,24,0,19,3,Sam Bird,36,#10,British,Jaguar TCS Racing,Jaguar I-Type 6,5,1:41:242,45:07:956,+ 0:03:633,15
+14,Rome,Italy,Circuito Cittadino dell'EUR,7/16/2023,15:03 - 16:30,36˚C,3.385KM,24,0,19,4,Edoardo Mortara,36,#48,Swiss,Maserati MSG Racing,Maserati Tipo Folgore,9,1:41:338,45:08:680,+ 0:04:357,12
+14,Rome,Italy,Circuito Cittadino dell'EUR,7/16/2023,15:03 - 16:30,36˚C,3.385KM,24,0,19,5,Sebastian Buemi,34,#16,Swiss,Envision Racing,Jaguar I-Type 6,8,1:41:353,45:09:327,+ 0:05:004,10
+14,Rome,Italy,Circuito Cittadino dell'EUR,7/16/2023,15:03 - 16:30,36˚C,3.385KM,24,0,19,6,Maximilian Gunther,25,#7,German,Maserati MSG Racing,Maserati Tipo Folgore,6,1:41:455,45:09:726,+ 0:05:403,8
+14,Rome,Italy,Circuito Cittadino dell'EUR,7/16/2023,15:03 - 16:30,36˚C,3.385KM,24,0,19,7,Pascal Wehrlein,28,#94,German,Tag Heuer Porsche Formula E Team,Porsche 99X Electric Gen3,15,1:41:585,45:15:909,+ 0:11:586,6
+14,Rome,Italy,Circuito Cittadino dell'EUR,7/16/2023,15:03 - 16:30,36˚C,3.385KM,24,0,19,8,Stoffel Vandoorne,31,#1,Belgian,DS Penske,DS E-TENSE FE23,18,1:41:287,45:16:274,+ 0:11:951,4
+14,Rome,Italy,Circuito Cittadino dell'EUR,7/16/2023,15:03 - 16:30,36˚C,3.385KM,24,0,19,9,Dan Ticktum,24,#33,British,NIO 333 Racing,NIO 333 ER9,7,1:41:615,45:16:886,+ 0:12:563,2
+14,Rome,Italy,Circuito Cittadino dell'EUR,7/16/2023,15:03 - 16:30,36˚C,3.385KM,24,0,19,10,Nico Mueller,31,#51,Swiss,ABT Cupra Formula E Team,Mahindra M9Electro,19,1:41:589,45:17:636,+ 0:13:313,1
+14,Rome,Italy,Circuito Cittadino dell'EUR,7/16/2023,15:03 - 16:30,36˚C,3.385KM,24,0,19,11,Jake Hughes,29,#5,British,NEOM McLaren Formula E Team,Nissan e-4ORCE 04,11,1:41:047,45:18:830,+ 0:14:507,0
+14,Rome,Italy,Circuito Cittadino dell'EUR,7/16/2023,15:03 - 16:30,36˚C,3.385KM,24,0,19,12,Antonio Felix Da Costa,31,#13,Spanish,Tag Heuer Porsche Formula E Team,Porsche 99X Electric Gen3,10,1:41:532,45:22:357,+ 0:18:034,0
+14,Rome,Italy,Circuito Cittadino dell'EUR,7/16/2023,15:03 - 16:30,36˚C,3.385KM,24,0,19,13,Rene Rast,36,#58,German,NEOM McLaren Formula E Team,Nissan e-4ORCE 04,13,1:40:794,45:25:352,+ 0:21:029,0
+14,Rome,Italy,Circuito Cittadino dell'EUR,7/16/2023,15:03 - 16:30,36˚C,3.385KM,24,0,19,14,Nick Cassidy,28,#37,New Zealander,Envision Racing,Jaguar I-Type 6,2,1:41:298,45:32:798,+ 0:28:475,0
+14,Rome,Italy,Circuito Cittadino dell'EUR,7/16/2023,15:03 - 16:30,36˚C,3.385KM,24,0,19,15,Jean-Eric Vergne,33,#25,French,DS Penske,DS E-TENSE FE23,12,1:40:264,46:30:946,+ 1:26:623,0
+14,Rome,Italy,Circuito Cittadino dell'EUR,7/16/2023,15:03 - 16:30,36˚C,3.385KM,24,0,19,16,Sacha Fenestraz,23,#23,French,Nissan Formula E Team,Nissan e-4ORCE 04,22,1:41:284,46:34:025,+ ,0
+14,Rome,Italy,Circuito Cittadino dell'EUR,7/16/2023,15:03 - 16:30,36˚C,3.385KM,24,0,19,17,Mitch Evans,29,#9,New Zealander,Jaguar TCS Racing,Jaguar I-Type 6,4,1:49:693,DNF,DNF,0
+14,Rome,Italy,Circuito Cittadino dell'EUR,7/16/2023,15:03 - 16:30,36˚C,3.385KM,24,0,19,18,Roberto Merhi,32,#8,Spanish,Mahindra Racing,Mahindra M9Electro,21,1:41:990,DNF,DNF,0
+14,Rome,Italy,Circuito Cittadino dell'EUR,7/16/2023,15:03 - 16:30,36˚C,3.385KM,24,0,19,19,Lucas Di Grassi,38,#11,Brazilian,Mahindra Racing,Mahindra M9Electro,14,1:41:680,DNF,DNF,0
+14,Rome,Italy,Circuito Cittadino dell'EUR,7/16/2023,15:03 - 16:30,36˚C,3.385KM,24,0,19,20,Sergio Sette Camara,25,#3,Brazilian,NIO 333 Racing,NIO 333 ER9,16,1:42:618,DNF,DNF,0
+14,Rome,Italy,Circuito Cittadino dell'EUR,7/16/2023,15:03 - 16:30,36˚C,3.385KM,24,0,19,21,Robin Frijns,31,#4,Dutch,ABT Cupra Formula E Team,Mahindra M9Electro,20,1:42:109,DNF,DNF,0
+14,Rome,Italy,Circuito Cittadino dell'EUR,7/16/2023,15:03 - 16:30,36˚C,3.385KM,24,0,19,22,Andre Lotterer,41,#36,German,Avalanche Andretti Formula E,Porsche 99X Electric Gen3,17,1:41:731,DNF,DNF,0
+15,London,UK,ExCeL E-Prix Circuit,7/29/2023,17:03 - 18:30,22˚C,2.090KM,36,1,20,1,Mitch Evans,29,#9,New Zealander,Jaguar TCS Racing,Jaguar I-Type 6,6,1:12:933,33:47:300,0,28
+15,London,UK,ExCeL E-Prix Circuit,7/29/2023,17:03 - 18:30,22˚C,2.090KM,36,1,20,2,Jake Dennis,28,#27,British,Avalanche Andretti Formula E,Porsche 99X Electric Gen3,2,1:13:030,33:48:416,+ 0:01:116,18
+15,London,UK,ExCeL E-Prix Circuit,7/29/2023,17:03 - 18:30,22˚C,2.090KM,36,1,20,3,Sebastian Buemi,34,#16,Swiss,Envision Racing,Jaguar I-Type 6,3,1:13:234,33:48:968,+ 0:01:668,15
+15,London,UK,ExCeL E-Prix Circuit,7/29/2023,17:03 - 18:30,22˚C,2.090KM,36,1,20,4,Sam Bird,36,#10,British,Jaguar TCS Racing,Jaguar I-Type 6,9,1:13:264,33:50:354,+ 0:03:054,12
+15,London,UK,ExCeL E-Prix Circuit,7/29/2023,17:03 - 18:30,22˚C,2.090KM,36,1,20,5,Edoardo Mortara,36,#48,Swiss,Maserati MSG Racing,Maserati Tipo Folgore,11,1:12:923,33:51:563,+ 0:04:263,10
+15,London,UK,ExCeL E-Prix Circuit,7/29/2023,17:03 - 18:30,22˚C,2.090KM,36,1,20,6,Lucas Di Grassi,38,#11,Brazilian,Mahindra Racing,Mahindra M9Electro,20,1:13:168,33:52:069,+ 0:04:769,8
+15,London,UK,ExCeL E-Prix Circuit,7/29/2023,17:03 - 18:30,22˚C,2.090KM,36,1,20,7,Dan Ticktum,24,#33,British,NIO 333 Racing,NIO 333 ER9,4,1:13:008,33:52:418,+ 0:05:118,6
+15,London,UK,ExCeL E-Prix Circuit,7/29/2023,17:03 - 18:30,22˚C,2.090KM,36,1,20,8,Norman Nato,30,#17,French,Nissan Formula E Team,Nissan e-4ORCE 04,10,1:13:555,33:54:827,+ 0:07:527,4
+15,London,UK,ExCeL E-Prix Circuit,7/29/2023,17:03 - 18:30,22˚C,2.090KM,36,1,20,9,Pascal Wehrlein,28,#94,German,Tag Heuer Porsche Formula E Team,Porsche 99X Electric Gen3,7,1:12:764,33:56:025,+ 0:08:725,2
+15,London,UK,ExCeL E-Prix Circuit,7/29/2023,17:03 - 18:30,22˚C,2.090KM,36,1,20,10,Jake Hughes,29,#5,British,NEOM McLaren Formula E Team,Nissan e-4ORCE 04,18,1:12:714,33:56:428,+ 0:09:128,2
+15,London,UK,ExCeL E-Prix Circuit,7/29/2023,17:03 - 18:30,22˚C,2.090KM,36,1,20,11,Stoffel Vandoorne,31,#1,Belgian,DS Penske,DS E-TENSE FE23,8,1:13:280,33:57:531,+ 0:10:231,0
+15,London,UK,ExCeL E-Prix Circuit,7/29/2023,17:03 - 18:30,22˚C,2.090KM,36,1,20,12,Maximilian Gunther,25,#7,German,Maserati MSG Racing,Maserati Tipo Folgore,14,1:12:904,33:57:868,+ 0:10:568,0
+15,London,UK,ExCeL E-Prix Circuit,7/29/2023,17:03 - 18:30,22˚C,2.090KM,36,1,20,13,Andre Lotterer,41,#36,German,Avalanche Andretti Formula E,Porsche 99X Electric Gen3,15,1:12:342,33:58:394,+ 0:11:094,0
+15,London,UK,ExCeL E-Prix Circuit,7/29/2023,17:03 - 18:30,22˚C,2.090KM,36,1,20,14,Rene Rast,36,#58,German,NEOM McLaren Formula E Team,Nissan e-4ORCE 04,5,1:12:537,33:59:089,+ 0:11:789,0
+15,London,UK,ExCeL E-Prix Circuit,7/29/2023,17:03 - 18:30,22˚C,2.090KM,36,1,20,15,Roberto Merhi,32,#8,Spanish,Mahindra Racing,Mahindra M9Electro,22,1:13:205,34:10:772,+ 0:23:472,0
+15,London,UK,ExCeL E-Prix Circuit,7/29/2023,17:03 - 18:30,22˚C,2.090KM,36,1,20,16,Antonio Felix Da Costa,31,#13,Spanish,Tag Heuer Porsche Formula E Team,Porsche 99X Electric Gen3,17,1:13:366,36:47:966,+ 3:00:666,0
+15,London,UK,ExCeL E-Prix Circuit,7/29/2023,17:03 - 18:30,22˚C,2.090KM,36,1,20,17,Jean-Eric Vergne,33,#25,French,DS Penske,DS E-TENSE FE23,13,1:16:268,DNF,DNF,0
+15,London,UK,ExCeL E-Prix Circuit,7/29/2023,17:03 - 18:30,22˚C,2.090KM,36,1,20,18,Nick Cassidy,28,#37,New Zealander,Envision Racing,Jaguar I-Type 6,1,1:14:140,DNF,DNF,0
+15,London,UK,ExCeL E-Prix Circuit,7/29/2023,17:03 - 18:30,22˚C,2.090KM,36,1,20,19,Sacha Fenestraz,23,#23,French,Nissan Formula E Team,Nissan e-4ORCE 04,16,1:14:604,DNF,DNF,0
+15,London,UK,ExCeL E-Prix Circuit,7/29/2023,17:03 - 18:30,22˚C,2.090KM,36,1,20,20,Sergio Sette Camara,25,#3,Brazilian,NIO 333 Racing,NIO 333 ER9,19,1:12:860,DNF,DNF,0
+15,London,UK,ExCeL E-Prix Circuit,7/29/2023,17:03 - 18:30,22˚C,2.090KM,36,1,20,21,Robin Frijns,31,#4,Dutch,ABT Cupra Formula E Team,Mahindra M9Electro,21,1:17:889,DNF,DNF,0
+15,London,UK,ExCeL E-Prix Circuit,7/29/2023,17:03 - 18:30,22˚C,2.090KM,36,1,20,22,Nico Mueller,31,#51,Swiss,ABT Cupra Formula E Team,Mahindra M9Electro,12,1:15:354,DNF,DNF,0
+16,London,UK,ExCeL E-Prix Circuit,7/30/2023,17:03 - 18:30,18˚C,2.090KM,34,0,20,1,Nick Cassidy,28,#37,New Zealander,Envision Racing,Jaguar I-Type 6,1,1:21:797,13:56:532,0,28
+16,London,UK,ExCeL E-Prix Circuit,7/30/2023,17:03 - 18:30,18˚C,2.090KM,34,0,20,2,Mitch Evans,29,#9,New Zealander,Jaguar TCS Racing,Jaguar I-Type 6,2,1:22:170,14:01:466,+ 0:04:934,18
+16,London,UK,ExCeL E-Prix Circuit,7/30/2023,17:03 - 18:30,18˚C,2.090KM,34,0,20,3,Jake Dennis,28,#27,British,Avalanche Andretti Formula E,Porsche 99X Electric Gen3,4,1:21:554,14:12:827,+ 0:16:295,16
+16,London,UK,ExCeL E-Prix Circuit,7/30/2023,17:03 - 18:30,18˚C,2.090KM,34,0,20,4,Norman Nato,30,#17,French,Nissan Formula E Team,Nissan e-4ORCE 04,3,1:22:293,14:21:351,+ 0:24:819,12
+16,London,UK,ExCeL E-Prix Circuit,7/30/2023,17:03 - 18:30,18˚C,2.090KM,34,0,20,5,Stoffel Vandoorne,31,#1,Belgian,DS Penske,DS E-TENSE FE23,5,1:22:052,14:22:822,+ 0:26:290,10
+16,London,UK,ExCeL E-Prix Circuit,7/30/2023,17:03 - 18:30,18˚C,2.090KM,34,0,20,6,Sebastian Buemi,34,#16,Swiss,Envision Racing,Jaguar I-Type 6,7,1:21:991,14:23:938,+ 0:27:406,8
+16,London,UK,ExCeL E-Prix Circuit,7/30/2023,17:03 - 18:30,18˚C,2.090KM,34,0,20,7,Sam Bird,36,#10,British,Jaguar TCS Racing,Jaguar I-Type 6,6,1:22:012,14:25:908,+ 0:29:376,6
+16,London,UK,ExCeL E-Prix Circuit,7/30/2023,17:03 - 18:30,18˚C,2.090KM,34,0,20,8,Nico Mueller,31,#51,Swiss,ABT Cupra Formula E Team,Mahindra M9Electro,8,1:22:059,14:26:836,+ 0:30:304,4
+16,London,UK,ExCeL E-Prix Circuit,7/30/2023,17:03 - 18:30,18˚C,2.090KM,34,0,20,9,Dan Ticktum,24,#33,British,NIO 333 Racing,NIO 333 ER9,9,1:21:881,14:27:364,+ 0:30:832,2
+16,London,UK,ExCeL E-Prix Circuit,7/30/2023,17:03 - 18:30,18˚C,2.090KM,34,0,20,10,Pascal Wehrlein,28,#94,German,Tag Heuer Porsche Formula E Team,Porsche 99X Electric Gen3,10,1:22:492,14:32:090,+ 0:35:558,1
+16,London,UK,ExCeL E-Prix Circuit,7/30/2023,17:03 - 18:30,18˚C,2.090KM,34,0,20,11,Edoardo Mortara,36,#48,Swiss,Maserati MSG Racing,Maserati Tipo Folgore,12,1:22:464,14:33:147,+ 0:36:615,0
+16,London,UK,ExCeL E-Prix Circuit,7/30/2023,17:03 - 18:30,18˚C,2.090KM,34,0,20,12,Rene Rast,36,#58,German,NEOM McLaren Formula E Team,Nissan e-4ORCE 04,13,1:21:995,14:34:692,+ 0:38:160,0
+16,London,UK,ExCeL E-Prix Circuit,7/30/2023,17:03 - 18:30,18˚C,2.090KM,34,0,20,13,Sergio Sette Camara,25,#3,Brazilian,NIO 333 Racing,NIO 333 ER9,15,1:22:100,14:36:827,+ 0:40:295,0
+16,London,UK,ExCeL E-Prix Circuit,7/30/2023,17:03 - 18:30,18˚C,2.090KM,34,0,20,14,Maximilian Gunther,25,#7,German,Maserati MSG Racing,Maserati Tipo Folgore,16,1:22:511,14:47:672,+ 0:51:140,0
+16,London,UK,ExCeL E-Prix Circuit,7/30/2023,17:03 - 18:30,18˚C,2.090KM,34,0,20,15,Sacha Fenestraz,23,#23,French,Nissan Formula E Team,Nissan e-4ORCE 04,18,1:22:555,14:48:450,+ 0:51:918,0
+16,London,UK,ExCeL E-Prix Circuit,7/30/2023,17:03 - 18:30,18˚C,2.090KM,34,0,20,16,Antonio Felix Da Costa,31,#13,Spanish,Tag Heuer Porsche Formula E Team,Porsche 99X Electric Gen3,20,1:22:502,14:49:868,+ 0:53:336,0
+16,London,UK,ExCeL E-Prix Circuit,7/30/2023,17:03 - 18:30,18˚C,2.090KM,34,0,20,17,Robin Frijns,31,#4,Dutch,ABT Cupra Formula E Team,Mahindra M9Electro,22,1:22:420,14:53:140,+ 0:56:608,0
+16,London,UK,ExCeL E-Prix Circuit,7/30/2023,17:03 - 18:30,18˚C,2.090KM,34,0,20,18,Lucas Di Grassi,38,#11,Brazilian,Mahindra Racing,Mahindra M9Electro,17,1:22:507,14:54:596,+ 0:58:064,0
+16,London,UK,ExCeL E-Prix Circuit,7/30/2023,17:03 - 18:30,18˚C,2.090KM,34,0,20,19,Jake Hughes,29,#5,British,NEOM McLaren Formula E Team,Nissan e-4ORCE 04,19,1:22:261,14:56:488,+ 0:59:956,0
+16,London,UK,ExCeL E-Prix Circuit,7/30/2023,17:03 - 18:30,18˚C,2.090KM,34,0,20,20,Robin Frijns,31,#4,Dutch,ABT Cupra Formula E Team,Mahindra M9Electro,21,1:22:558,14:59:038,+ 1:02:506,0
+16,London,UK,ExCeL E-Prix Circuit,7/30/2023,17:03 - 18:30,18˚C,2.090KM,34,0,20,21,Andre Lotterer,41,#36,German,Avalanche Andretti Formula E,Porsche 99X Electric Gen3,14,1:22:254,14:59:422,+ 1:02:890,0
+16,London,UK,ExCeL E-Prix Circuit,7/30/2023,17:03 - 18:30,18˚C,2.090KM,34,0,20,22,Jean-Eric Vergne,33,#25,French,DS Penske,DS E-TENSE FE23,11,1:22:492,14:09:464 ,+ ,0
